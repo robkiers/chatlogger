@@ -46,19 +46,32 @@ button {
 }
 .grid {
   display: grid;
-  grid-template-columns: 5rem 6rem auto;
+  grid-template-columns: 2rem 5rem 6rem auto;
   column-gap: 0.5rem;
   margin-bottom: 0.2rem;
   .a {
     justify-self: center;
+    button {
+      font-size: 0.8rem;
+      background-color: #ffffff00;
+      border: #ffffff20 solid 1px;
+      color: #ffffff20;
+      border-radius: 5px;
+      padding: 0 0.2rem 0 0.2rem; 
+      &:hover {
+        border: #ffffff80 solid 1px;
+        color: #ffffff80;
+      }
+    }
   }
   .b {
-    justify-self: end;
+    justify-self: center;
   }
   .c {
-    justify-self: start;
+    justify-self: end;
   }
   .d {
+    justify-self: start;
   }
 }
 
@@ -66,22 +79,26 @@ button {
   margin-bottom: 1rem;
 }
 
-.white {
+.sayColor {
   color: #ffffff;
 }
 
-.orange {
-  color: #ffa500;
+.emoteColor {
+  color: #ff9900;
 }
 
-.red {
-  color: #ff0000;
+.raidColor {
+  color: #ff8142;
 }
 
-.pink {
-  color: #ffc0cb;
+.yellColor {
+  color: #ff3333;
 }
 
-.blue {
-  color: #00d9ff;
+.whisperColor {
+  color: #ff99ff;
+}
+
+.partyColor {
+  color: #66ccff;
 }

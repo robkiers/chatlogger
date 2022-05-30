@@ -28,7 +28,7 @@ function App() {
 
         if (text) {
           const sorted = chatSorter(mapped, text);
-          setText({...sorted});
+          setText({ ...sorted });
         } else {
           const sorted = chatSorter(mapped);
           setText(sorted);
@@ -71,6 +71,7 @@ function App() {
     reader.onerror = (e) => alert(e.target?.error?.name);
     reader.readAsText(fileimport);
   };
+
 
   return (
     <div className="App">
@@ -137,8 +138,8 @@ function App() {
               <button onClick={() => downloadFile()}>Download Json file</button>
             </div>
             <div className="inputContainer">
-              <h2>Import TRP Data</h2>
-              <input type="file" className="fullwidth" />
+              {/* <h2>Import TRP Data</h2>
+              <input type="file" className="fullwidth" /> */}
             </div>
           </div>
         </TabPanel>
@@ -179,6 +180,7 @@ function MonthComponent(month: any) {
   const [scrollMonth, setScrollMonth] = useState<lineObject[][]>(
     month.month.slice(0, number)
   );
+  const [hasMore, setHasMore] = useState<boolean>(true);
 
   useEffect(() => {
     if (scrollMonth[0].length < 50) {
@@ -188,6 +190,9 @@ function MonthComponent(month: any) {
 
   const fetchData = () => {
     setScrollMonth(month.month.slice(0, scrollMonth.length + number));
+    if (scrollMonth!.length >= month.month!.length) {
+      setHasMore(false);
+    }
   };
 
   return (
@@ -195,11 +200,11 @@ function MonthComponent(month: any) {
       <InfiniteScroll
         dataLength={scrollMonth.length} //This is important field to render the next data
         next={fetchData}
-        hasMore={true}
+        hasMore={hasMore}
         loader={<h4>Loading...</h4>}
         endMessage={
           <p style={{ textAlign: "center" }}>
-            <b>Yay! You have seen it all</b>
+            <b>Last session</b>
           </p>
         }
       >
@@ -229,30 +234,34 @@ function LineComponent(line: any) {
   const lineObject = line.line;
 
   const className = setClassName(lineObject.type);
+  const deleteLine =() =>{
+    console.log(key);
+  }
 
   function setClassName(type: string): string {
     switch (type) {
       case "emote":
       case "wowemote":
-        return "orange";
+        return "emoteColor";
       case "yell":
-        return "red";
+        return "yellColor";
       case "party":
-        return "blue";
+        return "partyColor";
       case "raid":
-        return "orange";
+        return "raidColor";
       case "whisper":
       case "whisperto":
-        return "pink";
+        return "whisperColor";
       default:
-        return "white";
+        return "sayColor";
     }
   }
 
   return (
     <div className="grid">
-      <div className="a">{lineObject.date.toString().slice(16, 24)}</div>
-      <div className="b">{lineObject.character}</div>
+      <div className="a"><button onClick={() => deleteLine()}>D</button></div>
+      <div className="b">{lineObject.date.toString().slice(16, 24)}</div>
+      <div className="c">{lineObject.character}</div>
       <div className={className}>{lineObject.text}</div>
     </div>
   );

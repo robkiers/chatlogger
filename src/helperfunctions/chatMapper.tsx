@@ -27,7 +27,9 @@ function mapLine(line: string): lineObject {
       character: name.slice(name.indexOf("|h ") + 3, name.indexOf("-")),
       realm: name.slice(name.indexOf("-") + 1, name.indexOf(" ")),
       type: type,
-      text: name.slice(name.indexOf(": ") + 1),
+      text:
+        (type === "raid" ? "raid: " : type === "party" ? "party: " : "") +
+        name.slice(name.indexOf(": ") + 1),
       favorite: false,
       notes: "",
       tags: [""],
@@ -37,7 +39,7 @@ function mapLine(line: string): lineObject {
     return {
       date: new Date(yearString + line.slice(0, 17).replace("/", "-")),
       character: name.slice(0, name.indexOf(" ")),
-      realm: 'ArgentDawn',
+      realm: "ArgentDawn",
       type: type,
       text: name.slice(name.indexOf(" ")),
       favorite: false,
@@ -67,9 +69,7 @@ function defineLineType(line: string) {
     return "raid";
   } else if (line.startsWith("To")) {
     return "whisperto";
-  } else if (
-    emoteList.some((rx) => rx.test(line))
-  ) {
+  } else if (emoteList.some((rx) => rx.test(line))) {
     return "wowemote";
   } else if (line.slice(line.indexOf(" ") + 1).startsWith("says:")) {
     return "say";
@@ -78,7 +78,6 @@ function defineLineType(line: string) {
   } else if (line.slice(line.indexOf(" ") + 1).startsWith("whispers:")) {
     return "whisper";
   } else {
-    console.log('line', line)
     return "emote";
   }
 }
