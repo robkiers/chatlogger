@@ -1,0 +1,87 @@
+h2 {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+input {
+  border: #ffffff solid 1px;
+  border-radius: 5px;
+  &::-webkit-file-upload-button {
+    // visibility: hidden;
+    border-radius: 5px;
+    background-color: #ffffff;
+    padding: 0.5rem;
+  }
+  &[type="number"] {
+    padding: 0.5rem;
+  }
+}
+
+button {
+  background-color: #ffffff;
+  border: #ffffff solid 1px;
+  color: #202020;
+  border-radius: 5px;
+  padding: 0.5rem;
+}
+
+.App {
+  background-color: #202020;
+  color: #ffffff;
+  min-height: 100vh;
+}
+
+.fullwidth {
+  width: 100%;
+}
+
+.inputContainer {
+  height: 3rem;
+}
+.displaycontainer {
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: 30rem 30rem 30rem;
+  grid-template-rows: 20rem 20rem;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 5rem 6rem auto;
+  column-gap: 0.5rem;
+  margin-bottom: 0.2rem;
+  .a {
+    justify-self: center;
+  }
+  .b {
+    justify-self: end;
+  }
+  .c {
+    justify-self: start;
+  }
+  .d {
+  }
+}
+
+.m-b {
+  margin-bottom: 1rem;
+}
+
+.white {
+  color: #ffffff;
+}
+
+.orange {
+  color: #ffa500;
+}
+
+.red {
+  color: #ff0000;
+}
+
+.pink {
+  color: #ffc0cb;
+}
+
+.blue {
+  color: #00d9ff;
+}

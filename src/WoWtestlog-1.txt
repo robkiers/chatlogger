@@ -1,0 +1,149 @@
+2/14 12:00:00.001  test-log yells: system messages
+2/14 12:00:01.000  Iâlluen has come online.
+2/14 12:00:02.000  Nifre has gone offline.
+2/14 12:00:03.000  No player named 'Raniyah' is currently playing.
+2/14 12:00:04.000  FRIEND_ONLINE
+2/14 12:00:05.000  Nasheen: Level 48 Night Elf Warrior <Moonrise Hermitage> - Darkshore
+2/14 12:00:06.000  1 player total
+
+2/14 12:00:07.001  test-log yells: personal system messages
+2/14 12:00:08.000  You are now Away: AFK
+2/14 12:00:09.000  You are no longer Away.
+2/14 12:00:10.000  You receive item: Greater Court of Farondis Insignia
+2/14 12:00:11.000  You receive loot: Engorged Venom Sac
+2/14 12:00:12.000  You loot 24 Gold, 81 Silver, 53 Copper
+2/14 12:00:13.000  Received 12 Gold, 87 Silver.
+2/14 12:00:14.000  You are refunded 137 Gold, 37 Silver, 60 Copper.
+2/14 12:00:15.000  You receive currency: Infused Rubyx9
+2/14 12:00:16.000  Burnished Death Shroud Hood has been added to your appearance collection.
+2/14 12:00:17.000  155 Anima infused into the Reservoir.
+2/14 12:00:18.000  Reputation with Armies of Legionfall increased by 250.
+2/14 12:00:19.000  You create: Lovely Charm.
+2/14 12:00:20.000  You are now queued in the Dungeon Finder.
+2/14 12:00:21.000  Dungeon Difficulty set to Event.
+2/14 12:00:22.000  You leave the group.
+2/14 12:00:23.000  You have unlearned Watch the Shoes!.
+2/14 12:00:24.000  Soulbound with Nadjia the Mistblade.
+2/14 12:00:25.000  You have learned a new passive effect: Life of the Party.
+2/14 12:00:26.000  You are now saved to this instance
+2/14 12:00:27.000  You have learned how to create a new item: A-N0M-A-L0U5 Orthogonal Optics.
+
+2/14 12:00:27.001  test-log yells: party and raid messages
+2/14 12:00:28.000  Party converted to Raid
+2/14 12:00:29.000  You have joined a raid group. 
+2/14 12:00:30.000  Raid Difficulty set to Normal.
+2/14 12:00:31.000  Legacy Raid Difficulty set to 25 Player.
+2/14 12:00:32.000  Эмпатика-Гордунни has joined the raid group.
+2/14 12:00:33.000  Legacy loot rules are enabled.
+2/14 12:00:34.000  Legacy loot rules are no longer in effect.
+2/14 12:00:35.000  Your party is full.
+2/14 12:00:36.000  You have invited Alyssrea to join your group.
+2/14 12:00:37.000  Quest accepted: Training in Maldraxxus
+2/14 12:00:38.000  Watcher Emil completed.
+
+2/14 12:00:38.001  test-log yells: channel messages
+2/14 12:00:39.000  Changed Channel: |Hchannel:2125434992|h[(null)]|h
+2/14 12:00:40.000  Left Channel: |Hchannel:1710199296|h[(null)]|h 
+2/14 12:00:41.000  |Hchannel:GUILD|h[Guild]|h Nitzuss-ArgentDawn: how are you?
+2/14 12:00:42.000  |Hchannel:PARTY|h[Party Leader]|h Arlièn-ArgentDawn: Just a small little investigation, a lead up to the next events. I will see if I can come on over in a moment, but let me just talk with Ialluen.
+2/14 12:00:43.000  |Hchannel:RAID|h[Raid]|h Vashíra-ArgentDawn: "Wait...what?"
+2/14 12:00:44.000  |Hchannel:PET_BATTLE_COMBAT_LOG|h[Pet Battle]|h: Round 1
+2/14 12:00:45.000  |Hchannel:CHANNEL:0|h[MusicianComm]|h Snapfire-ArgentDawn, *Certifiable-ArgentDawn, Stormrae-ArgentDawn, Melky-ArgentDawn, Lendrina-ArgentDawn, Vargestin-ArgentDawn, Selënë-ArgentDawn, Reenfri-ArgentDawn, Sandria-ArgentDawn, Davíona-ArgentDawn, Gudoldtenzin-ArgentDawn, Dragoelf-ArgentDawn, Rezûul-ArgentDawn, Khungygar-ArgentDawn, Rereren-ArgentDawn, Mórdrèd-ArgentDawn, Zaviya-ArgentDawn, Alenastor-ArgentDawn, Hessaline-ArgentDawn, Cillay-ArgentDawn, Algòl-ArgentDawn, Cynthloria-ArgentDawn, Natorî-ArgentDawn, Chiseler-ArgentDawn
+2/14 12:00:46.000  [1. General] Thelasya-ArgentDawn: [Guild: Fort of Pillows] is currently recruiting new members to join us for 9.2. We raid two days a week (Wed & Sat) from 19:00 to 22:00. Heroic progressionin in a chill atmosphere and at a decent pace.
+2/14 12:00:47.000  [2. Trade] Defiasguy-ArgentDawn: LOL
+2/14 12:00:48.000  [9. Community:159037872:1] Irrissia-ArgentDawn: She actually doesn't leave. Just straight turn to ice.
+2/14 12:00:49.000  [10. xtensionxtooltip2] Ishlieb-ArgentDawn: GHI2ChannelReadyCheck
+
+2/14 12:00:49.001  test-log yells: convertable messages
+2/14 12:00:50.000  |Hchannel:RAID|h[Raid]|h Irrissia-ArgentDawn: *She places one hand on the ground and tries to follow all the magical circle and mentally traces where the different rings are.*
+2/14 12:00:51.000  |Hchannel:RAID|h[Raid]|h Vashíra-ArgentDawn: "Do you have more subtile weapons then loud guns, brother?"
+2/14 12:00:52.000  |Hchannel:PARTY|h[Party]|h Irrissia-ArgentDawn: (I have my answeeer)
+
+2/14 12:00:52.001  test-log yells: other player messages
+2/14 12:00:53.000  %s has earned the achievement It Might Just Save Your Life!
+2/14 12:00:54.000  Millamagia-TheSha'tar creates Shaded Bag of Ore.
+2/14 12:00:55.000  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 12:00:56.000  Tychee-Ravencrest receives loot: Heartbreak Charm.
+2/14 12:00:57.000  Blasterjr-Ravencrest has left the instance group.
+2/14 12:00:58.000  Eel-TheVentureCo performs Herb Gathering on Death Blossom.
+
+2/14 12:00:58.001  test-log yells: NPCS messages
+2/14 12:00:59.000  Prince Renathal says: The Brokers have secured a cache of curious weapons from other realms. Let's see if they will be of any use to our cause.
+2/14 12:01:00.000  Prince Renathal yells: We will crush them!
+2/14 12:01:01.000  Prince Renathal looks to you with utter disapointment.
+
+2/14 12:01:01.001  test-log yells: Emote messages
+2/14 12:01:02.000  Tellia seems a little tipsy from the Izzard's Ever Flavor.
+2/14 12:01:03.000  Tellia seems to be sobering up.
+2/14 12:01:04.000  Teaky cheers at you.
+2/14 12:01:05.000  You wave goodbye to Teaky. Farewell!
+2/14 12:01:06.000  Teaky waves goodbye to you. Farewell!
+2/14 12:01:07.000  Aseasia nods at Nitzuss.
+2/14 12:01:08.000  You chuckle at Arandell.
+2/14 12:01:09.000  Iâlluen looks at you.
+
+2/14 12:01:01.001  test-log yells: Whisper messages
+2/14 12:01:10.000  To |Kq40|k: Change of plans, I fear. Considering some limitations of my event, come thursday may be the only night I can run the event proper.
+2/14 12:01:11.000  |Kq40|k whispers: What event?
+2/14 12:01:12.000  Annaeya-ArgentDawn whispers: ((Pls remind me about the seed))
+2/14 12:01:13.000  To Annaeya-ArgentDawn: The seed is from a previous event, when we gathered it.
+
+2/14 12:01:01.001  test-log yells: say and emote messages
+2/14 12:01:14.000  Lyndraé-ArgentDawn says: Continue to do that; there's no other choice.
+2/14 12:01:15.000  Arlièn-ArgentDawn hums a greeting, inclinging her head.
+2/14 12:01:16.000  Irrissia-ArgentDawn says: ... You're the one who said to not w-- *She stops and straight up, looking in her back.*
+2/14 12:01:17.000  Irrissia-ArgentDawn nods for Arlien, turning slightly on the branch. "Blessed eve, Arlien."
+
+2/14 12:01:17.001  test-log yells: TRP npc messages
+2/14 12:01:18.000  Alyssrea-ArgentDawn brings her hand to her chest and squeezes her fingers together. She looks down, grimacing and then looks back towards the kin on the shore. "Elune'adore... brother... sister." her voice, although attempted to be kept balanced and proper, cracks with »
+2/14 12:01:19.000  Alyssrea-ArgentDawn » sorrow.
+2/14 12:01:20.000  Annaeya-ArgentDawn | The silver winged moth sits upon Tessaemay's finger, fluttering those beautiful reflective wings. 
+2/14 12:01:21.000  Arlièn-ArgentDawn | Delnar says: a rather interesting message
+
+2/14 23:41:04.000  test-log yells: longer conversation
+2/14 23:41:04.980  Arandell-ArgentDawn says: [Darnassian] Looks like a siege soon.
+2/14 23:41:25.622  Annaeya-ArgentDawn is quite well concealed, more than a year of hiding in bushes has left her in good stead, one would need to be -in- the bush to see past her camouflage.  Though if one listens, one can hear strangled chuckles. 
+2/14 23:41:33.346  Irrissia-ArgentDawn shakes her head softly and moves next to Thalyndrae.
+2/14 23:41:40.914  Lyndraé gently pats Irrissia.
+2/14 23:41:52.351  Irrissia-ArgentDawn grabs the patting hand, to hold it. Mine.
+2/14 23:41:57.532  Aseasia-ArgentDawn says: [Darnassian] Is there.. a commotion with the bush?
+2/14 23:41:57.911  Arlièn-ArgentDawn hums and dips her head to Aseasia in greeting, before she looks back to the bush.
+2/14 23:42:03.397  Lyndraé-ArgentDawn has no choice.
+2/14 23:42:30.067  Aseasia-ArgentDawn returns a nod towards Arlien.
+2/14 23:42:31.545  Arlièn-ArgentDawn says: [Darnassian] Producing very unusual sounds and berries, that really should not be growing.
+2/14 23:42:31.545  Lyndraé-ArgentDawn says: How are you feeling?
+2/14 23:43:00.613  Irrissia-ArgentDawn mutters faintly. "Tired..."
+2/14 23:43:16.930  Lyndraé-ArgentDawn says: There's a general solution to that conundrum; it's called sleep.
+2/14 23:43:27.868  Annaeya-ArgentDawn careflly reaches up, attempting to tuck a few daisies into one of Dalathria's boots without being noticed. 
+2/14 23:43:29.089  Irrissia-ArgentDawn squints, looking at Thalyndrae Ravenshade.
+2/14 23:43:36.649  Irrissia-ArgentDawn says: And you are the one telling about it ?
+2/14 23:43:37.458  Arandell-ArgentDawn says: [Darnassian] I am expecting crickets or some other bugs flying about.
+2/14 23:43:47.152  Lyndraé-ArgentDawn says: Precisely. Do what I say, not what I do.
+2/14 23:43:55.105  Dalathria-ArgentDawn glances over her shoulder towards the unknown voice and inclines her head to Aseasia slightly.
+2/14 23:44:24.964  Irrissia-ArgentDawn says: You know it doesn't work well with me.
+2/14 23:44:52.906  Lyndraé-ArgentDawn says: Sleep might though.
+2/14 23:44:54.749  Annaeya-ArgentDawn does not reveal herself,  despite having been well and truly rumbled. 
+2/14 23:44:56.891  Faeraven-ArgentDawn shrieks playfully and hastens her flight. She swoops agilely across the air and changes her directions unpredictably, enjoying the chase.
+2/14 23:45:05.610  Irrissia-ArgentDawn lowers her gaze, mumbling faintly.
+2/14 23:45:07.385  Dalathria-ArgentDawn eventually turns her attention back to the bush, paying little attention to her boots.
+2/14 23:45:28.928  Lyndraé-ArgentDawn leans to mumble back.
+2/14 23:45:37.213  Annaeya-ArgentDawn continues to decorate Dalathria's boots, one little daisy and buttercup at a time.
+2/14 23:45:59.219  Irrissia-ArgentDawn nods faintly.
+2/14 23:46:06.604  Irrissia-ArgentDawn says: [Low] Likely.
+2/14 23:46:29.186  Aseasia-ArgentDawn makes her up closer to the bush.
+2/14 23:46:30.980  Arlièn-ArgentDawn says: [Darnassian] When you are done there, will you come out?
+2/14 23:46:31.826  Lyndraé-ArgentDawn says: Well, I'm not leaving anytime soon, so there's that.
+2/14 23:46:34.424  Lyndraé shrugs at Irrissia. Who knows?
+2/14 23:47:15.049  Annaeya-ArgentDawn ponders Arlien's query. One last flower is added to Dalathria's boot before she utters. "Nope!"
+2/14 23:47:25.232  Irrissia-ArgentDawn nods again, her focus switchin on the bush a moment.
+2/14 23:47:33.304  Irrissia-ArgentDawn says: [Low] What's the problem, with the bush...?
+2/14 23:47:40.696  Arlièn-ArgentDawn says: [Darnassian] No as in you are not done yet, or no you will not come out?
+2/14 23:48:05.853  Annaeya-ArgentDawn manages to hear Tessaemay despite her low voice. Good ears, this elf. "The bush is haunted!"
+2/14 23:48:20.836  Lyndraé-ArgentDawn says: I think it came to life, but I'm not sure.
+2/14 23:48:33.749  Arlièn-ArgentDawn says: [Darnassian] Not another water spirit?
+2/14 23:48:34.294  Annaeya-ArgentDawn says: No I am not done and no I will not come out... so... both!
+2/14 23:48:35.749  Shalaira-ArgentDawn yells: Awwooooh!
+
+3/1 12:00:00.000  Irrissia-ArgentDawn mutters faintly. "Tired..."
+11/1 12:00:00.000  Irrissia-ArgentDawn mutters faintly. "Tired..."
+12/15 12:00:00.000  Irrissia-ArgentDawn mutters faintly. "Tired..."

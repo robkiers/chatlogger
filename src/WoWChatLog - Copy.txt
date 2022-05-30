@@ -1,0 +1,995 @@
+2/14 14:50:50.707  Iâlluen has come online.
+2/14 14:50:50.707  Gwydhienne has come online.
+2/14 14:50:50.822  Changed Channel: |Hchannel:2125434992|h[(null)]|h
+2/14 14:50:51.258  |Hchannel:CHANNEL:0|h[MusicianComm]|h Snapfire-ArgentDawn, *Certifiable-ArgentDawn, Stormrae-ArgentDawn, Melky-ArgentDawn, Lendrina-ArgentDawn, Vargestin-ArgentDawn, Selënë-ArgentDawn, Reenfri-ArgentDawn, Sandria-ArgentDawn, Davíona-ArgentDawn, Gudoldtenzin-ArgentDawn, Dragoelf-ArgentDawn, Rezûul-ArgentDawn, Khungygar-ArgentDawn, Rereren-ArgentDawn, Mórdrèd-ArgentDawn, Zaviya-ArgentDawn, Alenastor-ArgentDawn, Hessaline-ArgentDawn, Cillay-ArgentDawn, Algòl-ArgentDawn, Cynthloria-ArgentDawn, Natorî-ArgentDawn, Chiseler-ArgentDawn
+2/14 14:50:51.258  |Hchannel:CHANNEL:0|h[MusicianComm]|h Kaorra-ArgentDawn, Höpe-ArgentDawn, Darganathia-ArgentDawn, Christia-ArgentDawn, Tandrin-ArgentDawn, Blimsy-ArgentDawn, Leonpor-ArgentDawn, Sujee-ArgentDawn, Nifre-ArgentDawn, Arlièn-ArgentDawn, Everdeens-ArgentDawn, Likelydrunk-ArgentDawn, Gnorfell-ArgentDawn, Nosvaa-ArgentDawn, Greensby-ArgentDawn, Rosiltik-ArgentDawn, Addelanne-ArgentDawn, Rheinon-ArgentDawn, Yvainedore-ArgentDawn, Lízz-ArgentDawn, Alutaire-ArgentDawn, Gödfrit-ArgentDawn, Linmanuelmir-ArgentDawn, Aryelynn-ArgentDawn
+2/14 14:50:51.258  |Hchannel:CHANNEL:0|h[MusicianComm]|h Aishinah-ArgentDawn, Karlrecht-ArgentDawn, Sindariahh-ArgentDawn, Clarketh-ArgentDawn, Benjami-ArgentDawn, Dralasiel-ArgentDawn, Xayà-ArgentDawn, Kæning-ArgentDawn, Zylanel-ArgentDawn, Scrimmage-ArgentDawn, Jaedyth-ArgentDawn, Auvira-ArgentDawn, Thedarkblade-ArgentDawn, Nawaar-ArgentDawn, Braykeller-ArgentDawn, Remeraa-ArgentDawn, Shadéleaf-ArgentDawn, Leveira-ArgentDawn, Zysharr-ArgentDawn, Aminon-ArgentDawn, Seleryn-ArgentDawn, Kidaloron-ArgentDawn, Elliandria-ArgentDawn, Eldim-ArgentDawn
+2/14 14:50:51.258  |Hchannel:CHANNEL:0|h[MusicianComm]|h Conjured-ArgentDawn, Walerea-ArgentDawn, Octarvie-ArgentDawn, Irent-ArgentDawn, Fineza-ArgentDawn, Rhyatheá-ArgentDawn, Sonarïa-ArgentDawn, Pypérpip-ArgentDawn, Sèabough-ArgentDawn, Broodings-ArgentDawn, Monariel-ArgentDawn, Kàmrynn-ArgentDawn, Peachplums-ArgentDawn, Chialiea-ArgentDawn, Annikah-ArgentDawn, Stirling-ArgentDawn, Ascetichoove-ArgentDawn, Goldenfield-ArgentDawn, Ardelos-ArgentDawn, Hiyorin-ArgentDawn, Andagard-ArgentDawn, Piratez-ArgentDawn, Wrestrgdvfs-ArgentDawn, Gaibriel-ArgentDawn
+2/14 14:50:51.258  |Hchannel:CHANNEL:0|h[MusicianComm]|h Avanera-ArgentDawn, Craawford-ArgentDawn, Venatusdomin-ArgentDawn, Alirella-ArgentDawn, Brigitá-ArgentDawn, Míresgaleth-ArgentDawn, Stronkwolf-ArgentDawn, Borrob-ArgentDawn, Rakzar-ArgentDawn, Ignaea-ArgentDawn, Numuraa-ArgentDawn, Cyberdude-ArgentDawn, Daehlia-ArgentDawn, Goodfellów-ArgentDawn, Diradriss-ArgentDawn, Whyler-ArgentDawn, Talirei-ArgentDawn, Terenz-ArgentDawn, Kaenmar-ArgentDawn
+2/14 14:50:54.953  Changed Channel: |Hchannel:2125434992|h[(null)]|h
+2/14 14:51:24.180  Nifre has gone offline.
+2/14 14:53:51.146  Mortdorei has come online.
+2/14 14:54:20.013  Mortdorei has gone offline.
+2/14 14:55:21.612  You are now Away: AFK
+2/14 15:04:16.634  Tellia seems a little tipsy from the Izzard's Ever Flavor.
+2/14 15:05:03.333  Tellia seems to be sobering up.
+2/14 15:07:07.355  You are no longer Away.
+2/14 15:07:11.684  155 Anima infused into the Reservoir.
+2/14 15:07:12.887  You receive item: Greater Court of Farondis Insignia
+2/14 15:07:13.636  Reputation with Armies of Legionfall increased by 250.
+2/14 15:07:14.371  Reputation with Highmountain Tribe increased by 250.
+2/14 15:07:15.126  Reputation with Court of Farondis increased by 1500.
+2/14 15:07:15.627  You receive item: Greater Dreamweaver Insignia
+2/14 15:07:17.510  Reputation with Dreamweavers increased by 1500.
+2/14 15:07:18.147  Reputation with Highmountain Tribe increased by 250.
+2/14 15:07:18.719  Reputation with Armies of Legionfall increased by 250.
+2/14 15:07:25.836  Quest accepted: Training in Maldraxxus
+2/14 15:08:48.603  You receive item: Handcrafted Mirror Repair Kitx5
+2/14 15:08:50.101  Millamagia-TheSha'tar creates Shaded Bag of Ore.
+2/14 15:09:01.357  Changed Channel: |Hchannel:2125434992|h[(null)]|h
+2/14 15:09:01.415  Changed Channel: |Hchannel:2125434992|h[(null)]|h
+2/14 15:10:36.805  Changed Channel: |Hchannel:2125434992|h[(null)]|h
+2/14 15:10:36.805  Changed Channel: |Hchannel:2125434992|h[(null)]|h
+2/14 15:10:53.564  Changed Channel: |Hchannel:2125434992|h[(null)]|h
+2/14 15:10:53.564  Changed Channel: |Hchannel:2125434992|h[(null)]|h
+2/14 15:12:06.846  Prince Renathal says: The Brokers have secured a cache of curious weapons from other realms. Let's see if they will be of any use to our cause.
+2/14 15:12:15.459  Hopebreaker Vilstav says: Pain, what do you sense? The Maw Walker must be close.
+2/14 15:12:16.765  Hopebreaker Vilstav says: Right into my lap! Your head will serve me nicely.
+2/14 15:12:16.765  The Accuser says: The Fearstalker's hopebreakers left these souls to rot. Please remedy this plight.
+2/14 15:12:41.835  You receive loot: Dredhollow Bolt
+2/14 15:12:55.607  Forlorn Prisoner says: Free from... this strife. Thank you.
+2/14 15:13:05.735  You create: Lovely Charm.
+2/14 15:13:06.883  You receive loot: Engorged Venom Sac
+2/14 15:13:10.487  Burnished Death Shroud Hood has been added to your appearance collection.
+2/14 15:13:10.493  You receive loot: Burnished Death Shroud Hood
+2/14 15:13:10.642  You receive loot: Concealed Sinvyr Flaskx8
+2/14 15:13:10.864  You receive loot: Soulful Mana Potion
+2/14 15:13:11.067  You receive loot: Brainwortx2
+2/14 15:13:11.223  You loot 24 Gold, 81 Silver, 53 Copper
+2/14 15:13:11.275  You receive loot: Shadeskin Brandy Phial
+2/14 15:13:11.352  You receive loot: Harvester's Sinvyr Chalice
+2/14 15:13:11.352  Reputation with Court of Harvesters increased by 20.
+2/14 15:13:11.495  You receive loot: Counterfeit Ruby Broochx5
+2/14 15:13:11.670  You receive loot: Crimson Altar Wine
+2/14 15:13:11.913  You receive currency: Infused Rubyx9
+2/14 15:13:16.717  You receive loot: Engorged Venom Sac
+2/14 15:13:16.993  You receive loot: Tempered Carapace
+2/14 15:13:22.155  You receive item: Stone Fiend Tracker
+2/14 15:13:22.166  Theotar says: Someone has stolen a prized stone fiend from House Primrose. Such flagrant thievery cannot go unpunished! Find the fiend, and whomever is responsible.
+2/14 15:13:35.603  Hopebreaker Mursa says: Have you seen the Maw Walker? Speak now or I bleed you dry!
+2/14 15:13:44.707  Hopebreaker Marku says: Ugh. I can not get any readings on them.
+2/14 15:14:06.441  You receive loot: Dredbatskin Jerkin
+2/14 15:14:06.557  You receive loot: Shrieker's Voicebox
+2/14 15:14:06.730  You receive loot: Concealed Sinvyr Flaskx5
+2/14 15:14:06.857  You receive loot: Harvester's Sinvyr Chalice
+2/14 15:14:06.878  Reputation with Court of Harvesters increased by 20.
+2/14 15:14:07.953  You receive loot: Splintered Fang
+2/14 15:14:07.971  You receive loot: Bottle of Diluted Anima-Winex4
+2/14 15:14:08.106  You receive currency: Grateful Offeringx3
+2/14 15:14:08.522  You receive currency: Infused Rubyx17
+2/14 15:14:16.784  Gwydhienne has gone offline.
+2/14 15:14:47.958  Changed Channel: |Hchannel:2125434992|h[(null)]|h
+2/14 15:14:47.960  Changed Channel: |Hchannel:2125434992|h[(null)]|h
+2/14 15:14:54.597  |Hchannel:2125434928|h[Stormrae]|h Moderation privileges given to (null).
+2/14 15:14:54.597  |Hchannel:2125435200|h[Stormrae-ArgentDawn]|h Owner changed to (null).
+2/14 15:15:12.378  Changed Channel: |Hchannel:2125434992|h[(null)]|h
+2/14 15:15:12.381  Changed Channel: |Hchannel:2125434992|h[(null)]|h
+2/14 15:16:19.325  You receive loot: Tenebrous Ribs
+2/14 15:16:19.482  You receive loot: Stone Haunch
+2/14 15:16:21.824  You receive loot: Harvester's Sinvyr Chalice
+2/14 15:16:21.824  Reputation with Court of Harvesters increased by 20.
+2/14 15:16:22.007  You receive loot: Sinvyr Orex6
+2/14 15:16:22.186  You receive loot: Spiritual Healing Potion
+2/14 15:16:22.635  You loot 25 Gold, 66 Silver, 37 Copper
+2/14 15:16:22.674  You receive loot: Cloth Parisol Strips
+2/14 15:16:23.076  You receive loot: Confessions of Misdeedx5
+2/14 15:16:23.247  You receive currency: Infused Rubyx8
+2/14 15:16:23.379  You receive loot: Tithe Jar
+2/14 15:16:23.383  You receive loot: Depleted Stoneborn Heartx5
+2/14 15:16:23.383  You receive loot: Simple Manacles
+2/14 15:18:05.992  The Curator says: This is worse than I assumed, Maw Walker. The crypt ward has plunged into chaos in my absence. There is much to do.
+2/14 15:18:17.992  The Curator says: I hid my medallion through this mirror before Denathrius cast me into the Maw. To prevent him from reaching it, I cleaved the glass.
+2/14 15:18:28.588  The Curator says: I entrusted each of the halves to my subordinates. It is imperative we reach them before Denathrius's forces do.
+2/14 15:18:40.036  The Curator completed.
+2/14 15:18:40.036  Received 12 Gold, 87 Silver.
+2/14 15:18:54.702  Quest accepted: Watcher Emil
+2/14 15:19:16.926  You receive loot: Harvester's Sinvyr Chalice
+2/14 15:19:16.930  Reputation with Court of Harvesters increased by 20.
+2/14 15:19:17.101  You receive loot: Singed Soul Shacklesx5
+2/14 15:19:17.235  You receive loot: Confessions of Misdeedx5
+2/14 15:19:18.119  You receive loot: Brilliant Azure Orbx2
+2/14 15:19:18.305  You receive loot: Chalice of Renagal's Pact
+2/14 15:19:18.305  You receive loot: Glittering Primrose Necklace
+2/14 15:19:18.413  You receive currency: Grateful Offeringx3
+2/14 15:19:18.531  Quest accepted: Favor: Glittering Primrose Necklace
+2/14 15:19:18.627  You receive currency: Infused Rubyx8
+2/14 15:20:01.948  Guard Captain Elizabeta says: Oh good, reinforcements -- Wait, you're no venthyr.
+2/14 15:20:09.835  Guard Captain Elizabeta says: We lost contact with Emil when the chaos erupted. We sent Guardsman Dorin ahead to search for him. He has yet to return.
+2/14 15:20:15.727  Guard Captain Elizabeta says: If you are going deeper into the catacombs, we could use your help.
+2/14 15:20:19.914  Quest accepted: Combing the Catacombs
+2/14 15:20:22.860  Quest accepted: Break Out
+2/14 15:20:23.001  You receive item: Chains of Regret
+2/14 15:21:09.472  You create: Lovely Charm.
+2/14 15:21:11.244  You receive loot: Crumbling Sandstone
+2/14 15:21:12.091  You receive currency: Sinstone Fragmentsx3
+2/14 15:21:24.148  You receive loot: Crumbling Sandstone
+2/14 15:21:24.369  You receive loot: Counterfeit Ruby Broochx10
+2/14 15:21:24.500  You receive loot: Harvester's Sinvyr Chalice
+2/14 15:21:24.566  Reputation with Court of Harvesters increased by 20.
+2/14 15:21:25.687  You receive currency: Sinstone Fragmentsx45
+2/14 15:21:25.834  You receive currency: Infused Rubyx8
+2/14 15:21:38.525  Watcher Emil says: You there! Did the Curator send you? Come, there's -- what?!
+2/14 15:21:41.239  Hired Stealthblade says: Fool, you led us right to Emil! His mirror shard will be ours!
+2/14 15:21:44.052  Watcher Emil yells: Not today!
+2/14 15:21:50.968  Watcher Emil says: Come, come, friend of the Curator. We must move quickly.
+2/14 15:22:05.437  You receive loot: Twisted Sedimentx2
+2/14 15:22:20.482  You create: Lovely Charm.
+2/14 15:22:22.144  You receive loot: Crumbling Sandstone
+2/14 15:22:23.380  You receive currency: Sinstone Fragmentsx5
+2/14 15:22:26.868  Watcher Emil says: You there! Did the Curator send you? Come, there's -- what?!
+2/14 15:22:29.862  Hired Stealthblade says: Fool, you led us right to Emil! His mirror shard will be ours!
+2/14 15:22:32.765  Watcher Emil yells: Not today!
+2/14 15:22:39.586  Watcher Emil says: Come, come, friend of the Curator. We must move quickly.
+2/14 15:22:59.963  Captured Soul says: So much rage...
+2/14 15:23:15.412  Captured Soul says: No! I must resist!
+2/14 15:23:17.989  You receive loot: Decanter of Distilled Shadows
+2/14 15:23:18.171  You receive loot: Emotional Residuex3
+2/14 15:23:41.113  You receive loot: Clouded Stain Glass Shards
+2/14 15:23:41.947  You receive currency: Sinstone Fragmentsx5
+2/14 15:23:50.474  You create: Lovely Charm.
+2/14 15:23:55.411  You create: Lovely Charm.
+2/14 15:23:56.706  You receive loot: Emotional Residuex2
+2/14 15:24:06.518  Escaped Captive says: Eons. Eons! You've left me here!
+2/14 15:24:14.252  You receive loot: Clouded Stain Glass Shards
+2/14 15:24:15.446  You receive currency: Sinstone Fragmentsx3
+2/14 15:24:20.265  Escaped Captive says: It never ends! It never ends!
+2/14 15:24:29.250  Captured Soul says: So much rage...
+2/14 15:24:33.559  You create: Lovely Charm.
+2/14 15:24:34.609  You receive loot: Emotional Residue
+2/14 15:24:34.780  You receive loot: Twisted Sediment
+2/14 15:24:39.272  Escaped Captive says: It never ends! It never ends!
+2/14 15:24:51.214  You receive loot: Emotional Residuex2
+2/14 15:24:51.369  You receive loot: Twisted Sediment
+2/14 15:24:51.538  You receive loot: Tendrils of Ectoplasm
+2/14 15:25:05.803  Captured Soul says: No! I must resist!
+2/14 15:25:16.260  Escaped Captive says: Blessed... silence...
+2/14 15:25:18.036  Captured Soul says: So much rage...
+2/14 15:25:28.458  Escaped Captive says: End this suffering!
+2/14 15:25:33.485  Escaped Captive says: Finally... it ends.
+2/14 15:25:35.035  Captured Soul says: The chains... bind me.
+2/14 15:25:36.997  You receive loot: Twisted Sediment
+2/14 15:26:01.061  You create: Lovely Charm.
+2/14 15:26:03.621  You create: Lovely Charm.
+2/14 15:26:05.510  You receive loot: Twisted Sedimentx2
+2/14 15:26:45.554  Watcher Emil says: You there! Did the Curator send you? Come, there's -- what?!
+2/14 15:26:48.554  Hired Stealthblade says: Fool, you led us right to Emil! His mirror shard will be ours!
+2/14 15:26:51.727  Watcher Emil yells: Not today!
+2/14 15:26:58.601  Watcher Emil says: Come, come, friend of the Curator. We must move quickly.
+2/14 15:27:05.389  Watcher Emil completed.
+2/14 15:27:05.389  Received 25 Gold, 74 Silver.
+2/14 15:27:15.997  Quest accepted: Lead the Way
+2/14 15:27:19.890  Watcher Emil says: We must move quickly. There are plenty more assassins lurking in the shadows. This spell should reveal them to us.
+2/14 15:27:41.485  [10. xtensionxtooltip2] Ishlieb-ArgentDawn: GHI2ChannelReadyCheck
+2/14 15:27:56.194  Watcher Emil says: Stay close, Maw Walker. We need to drop down here.
+2/14 15:28:04.284  Watcher Emil says: We need to keep moving, Arlièn!
+2/14 15:28:07.050  Escaped Captive says: These bars will hold me no longer!
+2/14 15:28:10.180  Escaped Captive says: The venthyr's incompetence will be this prison's fall!
+2/14 15:28:14.012  Escaped Captive says: These bars will hold me no longer!
+2/14 15:28:17.653  Escaped Captive says: I am unbound! No one can stop me!
+2/14 15:28:23.733  Watcher Emil says: Watch your step. The traitors are everywhere.
+2/14 15:28:31.513  Watcher Emil says: Stop. A pack of em' are passing right in front of us.
+2/14 15:28:49.883  Watcher Emil says: We made it, friend, and just in time too. I could barely maintain the spell any long-- what?!
+2/14 15:28:59.250  Sinkeeper Mateo says: Emil! We've been looking for you... The Sire requires the mirror shard that the Curator gave you.
+2/14 15:29:04.099  Watcher Emil says: Denathrius? How could you side with him after he cast the Curator into the Maw? Traitor.
+2/14 15:29:08.495  Sinkeeper Mateo says: Me, a traitor? By the Maw Walker's presence, I can see that you're the real traitor. Deal with these two and return the mirror shard to me in Archivam.
+2/14 15:29:15.762  Watcher Emil says: The assassins lurk around us. There is no time for delay.
+2/14 15:29:23.793  You receive loot: Echo of Mortalityx6
+2/14 15:29:23.908  Watcher Emil says: I should have known Mateo would betray us. If you ask me, he was never trustworthy. I will meet you and the Curator at the Crypt of the Forgotten.
+2/14 15:29:24.700  You loot 2 Gold, 80 Silver, 25 Copper
+2/14 15:29:44.308  Break Out completed.
+2/14 15:29:44.308  Received 51 Gold, 48 Silver.
+2/14 15:29:46.672  Combing the Catacombs completed.
+2/14 15:29:46.672  Received 25 Gold, 74 Silver.
+2/14 15:30:09.757  The Curator says: Emil, you are safe!
+2/14 15:30:12.597  Watcher Emil says: Mateo has betrayed you. He returned to Archivam. It seems he will stop at nothing to acquire your medallion for the Sire.
+2/14 15:30:21.509  The Curator says: Then I fear we do not have much time. We must put a stop to this now!
+2/14 15:30:36.450  You receive item: Ebony Death Shroud Belt
+2/14 15:30:36.497  Ebony Death Shroud Belt has been added to your appearance collection.
+2/14 15:30:36.509  Lead the Way completed.
+2/14 15:30:36.509  Received 25 Gold, 74 Silver.
+2/14 15:30:40.010  Quest accepted: Special Access
+2/14 15:30:41.244  Quest accepted: Crypt Crashers
+2/14 15:30:44.341  Quest accepted: An Eye for an Amulet
+2/14 15:30:44.589  The Curator says: Without the shard of the mirror Mateo holds, we will not reach the medallion in time.
+2/14 15:32:10.383  You create: Lovely Charm.
+2/14 15:32:11.794  You receive loot: Twitching Stone
+2/14 15:32:25.253  You create: Lovely Charm.
+2/14 15:32:28.613  You receive loot: Burnished Death Shroud Belt
+2/14 15:32:28.658  Burnished Death Shroud Belt has been added to your appearance collection.
+2/14 15:32:28.718  You receive loot: Confessions of Misdeedx6
+2/14 15:32:28.861  You receive loot: Counterfeit Ruby Broochx5
+2/14 15:32:29.115  You receive loot: Harvester's Sinvyr Chalice
+2/14 15:32:29.143  Reputation with Court of Harvesters increased by 20.
+2/14 15:32:29.256  You receive loot: Soulful Mana Potion
+2/14 15:32:29.355  You loot 2 Gold, 2 Silver, 93 Copper
+2/14 15:32:29.406  You receive loot: Silver-Etched Hopebreaker Dirk
+2/14 15:32:29.454  Silver-Etched Hopebreaker Dirk has been added to your appearance collection.
+2/14 15:32:29.680  You receive loot: Spiritual Mana Potion
+2/14 15:32:29.922  You receive loot: Dredged Chain Spaulders
+2/14 15:32:30.041  You receive loot: Dredged Chain Helm
+2/14 15:32:30.234  You receive loot: Emberflea Collection
+2/14 15:33:12.497  Changed Channel: |Hchannel:2125434992|h[(null)]|h
+2/14 15:33:12.497  Changed Channel: |Hchannel:2125434992|h[(null)]|h
+2/14 15:33:24.679  No player named 'Raniyah' is currently playing.
+2/14 15:33:24.679  No player named 'Raniyah' is currently playing.
+2/14 15:33:28.355  315 Anima infused into the Reservoir.
+2/14 15:33:30.011  No player named 'Zethraeus' is currently playing.
+2/14 15:33:30.011  No player named 'Zethraeus' is currently playing.
+2/14 15:34:36.718  Assault Recruit says: Prince Renathal requests another batch of dredgers at the assault camp!
+2/14 15:34:42.783  Changed Channel: |Hchannel:2125180560|h[(null)]|h
+2/14 15:34:42.788  Changed Channel: |Hchannel:2125180560|h[(null)]|h
+2/14 15:34:57.937  Watchmaster Boromod says: Thank the stone you've arrived, Maw Walker. Prince Renathal awaits you on the barricade above.
+2/14 15:35:00.217  Stonehead yells: No pass!
+2/14 15:35:02.004  Burly Hurly says: Don't worry, I throw good!
+2/14 15:35:27.538  Prince Renathal says: Your arrival heralds our victory. Lead our charge into the fortress!
+2/14 15:35:30.663  Quest accepted: That's a Good Trick
+2/14 15:35:30.740  You receive item: Lady Moonberry's Wand
+2/14 15:35:31.085  Lady Moonberry says: Let's sparkle them up!
+2/14 15:35:32.889  Quest accepted: Weapons of the Tremaculum
+2/14 15:35:35.352  Quest accepted: Wrath of the Party Herald
+2/14 15:35:35.415  Prince Renathal says: Lady Moonberry, might you kindly cover our advance into the fortress?
+2/14 15:35:35.415  The Curator says: Then I fear we do not have much time. We must put a stop to this now!
+2/14 15:35:38.099  Stonehead yells: No pass!
+2/14 15:35:40.293  Lady Moonberry says: A simple trick. No one can see us unless we want them to!
+2/14 15:35:44.675  Quest accepted: Fangcrack's Fan Club
+2/14 15:35:45.044  Fangcrack yells: I caught a big one!
+2/14 15:35:45.596  Cudgelface yells: Yeah! Get 'em, Fangcrack! Ha ha!
+2/14 15:36:06.088  Sinfall Hauler yells: Go get 'em Fangcrack!
+2/14 15:36:36.290  Sinfall Hauler yells: Go get 'em Fangcrack!
+2/14 15:37:02.460  Fangcrack says: Come out and play, small sneakies!
+2/14 15:37:27.858  Fangcrack says: Let's see who hidin' in here...
+2/14 15:37:43.135  Mortdorei has come online.
+2/14 15:37:53.236  Fangcrack says: Come out and play, small sneakies!
+2/14 16:33:09.372  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 16:33:09.808  |Hchannel:CHANNEL:0|h[MusicianComm]|h *Epóch-ArgentDawn, Antrose-ArgentDawn, Francés-ArgentDawn, Adrîenne-ArgentDawn, Jeannë-ArgentDawn, Yueliàng-ArgentDawn, Melky-ArgentDawn, Samcollins-ArgentDawn, Vargestin-ArgentDawn, Selënë-ArgentDawn, Arroweyejack-ArgentDawn, Tenesha-ArgentDawn, Wolfeflorus-ArgentDawn, Rosanoir-ArgentDawn, Davíona-ArgentDawn, Sevastus-ArgentDawn, Haearngwaed-ArgentDawn, Auxélie-ArgentDawn, Dragoelf-ArgentDawn, Orokar-ArgentDawn, Yarín-ArgentDawn, Rezûul-ArgentDawn, Ephimeral-ArgentDawn, Willingblam-ArgentDawn
+2/14 16:33:09.808  |Hchannel:CHANNEL:0|h[MusicianComm]|h Gorken-ArgentDawn, Alenastor-ArgentDawn, Starlii-ArgentDawn, Nëwbürry-ArgentDawn, Fayole-ArgentDawn, Ôbiwan-ArgentDawn, Xaofan-ArgentDawn, Peveth-ArgentDawn, Tenwu-ArgentDawn, Chiseler-ArgentDawn, Keithbell-ArgentDawn, Hoonterbecca-ArgentDawn, Hyperpop-ArgentDawn, Höpe-ArgentDawn, Emford-ArgentDawn, Christia-ArgentDawn, Thariss-ArgentDawn, Emptystrike-ArgentDawn, Stéffan-ArgentDawn, Blimsy-ArgentDawn, Leonpor-ArgentDawn, Merredy-ArgentDawn, Bórk-ArgentDawn, Summerspyre-ArgentDawn, Denuro-ArgentDawn
+2/14 16:33:09.808  |Hchannel:CHANNEL:0|h[MusicianComm]|h Dallysa-ArgentDawn, Arlièn-ArgentDawn, Meijí-ArgentDawn, Bellagrey-ArgentDawn, Trivalas-ArgentDawn, Gnorfell-ArgentDawn, Sleeto-ArgentDawn, Rosiltik-ArgentDawn, Addelanne-ArgentDawn, Yvainedore-ArgentDawn, Fenisaya-ArgentDawn, Moridian-ArgentDawn, Tyreyn-ArgentDawn, Halesy-ArgentDawn, Olandra-ArgentDawn, Brineburn-ArgentDawn, Linmanuelmir-ArgentDawn, Aryelynn-ArgentDawn, Benrus-ArgentDawn, Karlrecht-ArgentDawn, Mcdaughty-ArgentDawn, Sindariahh-ArgentDawn, Clarketh-ArgentDawn, Dralasiel-ArgentDawn
+2/14 16:33:09.808  |Hchannel:CHANNEL:0|h[MusicianComm]|h Xayà-ArgentDawn, Zeiderr-ArgentDawn, Kæning-ArgentDawn, Jaedyth-ArgentDawn, Morganieana-ArgentDawn, Astlay-ArgentDawn, Crimsonfist-ArgentDawn, Thedarkblade-ArgentDawn, Steir-ArgentDawn, Nawaar-ArgentDawn, Remeraa-ArgentDawn, Maliriale-ArgentDawn, Kälinsara-ArgentDawn, Nathmonk-ArgentDawn, Syecina-ArgentDawn, Aradithal-ArgentDawn, Alenthras-ArgentDawn, Tsuumi-ArgentDawn, Gustar-ArgentDawn, Leveira-ArgentDawn, Zysharr-ArgentDawn, Lauralae-ArgentDawn, Narwien-ArgentDawn, Kidaloron-ArgentDawn
+2/14 16:33:09.808  |Hchannel:CHANNEL:0|h[MusicianComm]|h Ashfalla-ArgentDawn, Bromancer-ArgentDawn, Ismáel-ArgentDawn, Eldim-ArgentDawn, Morrowe-ArgentDawn, Walerea-ArgentDawn, Octarvie-ArgentDawn, Highfate-ArgentDawn, Drácor-ArgentDawn, Taffycardia-ArgentDawn, Oftia-ArgentDawn, Sèabough-ArgentDawn, Broodings-ArgentDawn, Kàmrynn-ArgentDawn, Danieellas-ArgentDawn, Vicinitus-ArgentDawn, Émira-ArgentDawn, Peachplums-ArgentDawn, Valirsha-ArgentDawn, Daríon-ArgentDawn, Kharì-ArgentDawn, Kílaran-ArgentDawn, Annikah-ArgentDawn, Ascetichoove-ArgentDawn
+2/14 16:33:09.808  |Hchannel:CHANNEL:0|h[MusicianComm]|h Goldenfield-ArgentDawn, Aevyr-ArgentDawn, Hiyorin-ArgentDawn, Ardelos-ArgentDawn, Andagard-ArgentDawn, Darthjazkier-ArgentDawn, Sevrinn-ArgentDawn, Catheríine-ArgentDawn, Avanera-ArgentDawn, Xänder-ArgentDawn, Míresgaleth-ArgentDawn, Azzariah-ArgentDawn, Ignaea-ArgentDawn, Rakzar-ArgentDawn, Shazana-ArgentDawn, Liberious-ArgentDawn, Matraga-ArgentDawn, Panelina-ArgentDawn, Frayye-ArgentDawn, Beelzion-ArgentDawn, Knuutnuut-ArgentDawn, Elanria-ArgentDawn, Daehlia-ArgentDawn, Yannira-ArgentDawn
+2/14 16:33:09.808  |Hchannel:CHANNEL:0|h[MusicianComm]|h Diradriss-ArgentDawn, Whyler-ArgentDawn, Patchhide-ArgentDawn, Kalyvia-ArgentDawn, Sajira-ArgentDawn, Niiviene-ArgentDawn, Pandalf-ArgentDawn, Walsher-ArgentDawn, Scarletmire-ArgentDawn, Veleinia-ArgentDawn, Slyvïa-ArgentDawn
+2/14 16:33:13.665  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 16:33:13.682  Grove Trickster yells: I love you, Fangcrack!
+2/14 16:33:33.774  Fangcrack says: Come out and play, small sneakies!
+2/14 16:33:59.356  Fangcrack says: Let's see who hidin' in here...
+2/14 16:34:24.969  Sinfall Hauler yells: Go get 'em Fangcrack!
+2/14 16:34:51.889  Sinfall Hauler yells: Grab a big one this time, Fangcrack!
+2/14 16:35:17.221  Fangcrack says: Come out and play, small sneakies!
+2/14 16:35:21.465  Mawrat attempts to run away in fear!
+2/14 16:35:24.715  Fangcrack says: Ow! Dis one bit me!
+2/14 16:35:26.371  Mawrat attempts to run away in fear!
+2/14 16:35:30.010  Oddly Large Mawrat attempts to run away in fear!
+2/14 16:35:38.169  You receive loot: Hardened Tail Bone
+2/14 16:35:38.386  You receive loot: Spindly Flesh
+2/14 16:35:38.504  You receive loot: Marred Skin
+2/14 16:35:41.800  Fangcrack says: No one escapes Fangcrack!
+2/14 16:35:46.490  Sinfall Hauler yells: Grab a big one this time, Fangcrack!
+2/14 16:35:53.426  You receive loot: Spindly Flesh
+2/14 16:35:53.961  Fangcrack says: No more hiding for you, tiny!
+2/14 16:36:02.033  You create: Lovely Charm.
+2/14 16:36:03.205  You receive loot: Mawsworn Weapon
+2/14 16:36:04.060  You loot 20 Silver, 7 Copper
+2/14 16:36:10.996  Fangcrack says: Fangcrack wins again!
+2/14 16:36:15.728  Fangcrack says: Let's see who hidin' in here...
+2/14 16:36:17.080  Mawrat attempts to run away in fear!
+2/14 16:36:19.539  You receive loot: Marred Skin
+2/14 16:36:23.213  Fangcrack says: Fangcrack wins again!
+2/14 16:36:37.134  You receive loot: Spindly Flesh
+2/14 16:36:41.449  Fangcrack says: Aw, I was hopin' for a treasure chest...
+2/14 16:36:46.174  Grove Trickster yells: I love you, Fangcrack!
+2/14 16:36:53.619  Fangcrack says: Ow! Dis one bit me!
+2/14 16:36:58.401  You loot 1 Gold, 40 Silver, 60 Copper
+2/14 16:36:58.503  You receive currency: Stygiax1
+2/14 16:37:04.331  Fangcrack says: Come out and play, small sneakies!
+2/14 16:37:05.815  You receive loot: Bone Chip
+2/14 16:37:11.234  You receive loot: Bone Chip
+2/14 16:37:12.032  Fangcrack says: You in big muck now, little one...
+2/14 16:37:27.860  You receive loot: Tendrils of Ectoplasmx2
+2/14 16:37:28.655  You receive currency: Stygiax1
+2/14 16:37:33.683  Imprisoned Soul says: A taste... of hope.
+2/14 16:37:35.127  The soul enters your Soulkeeper.
+2/14 16:37:41.356  You create: Lovely Charm.
+2/14 16:37:43.394  You receive currency: Stygiax1
+2/14 16:37:43.457  You loot 2 Gold, 4 Silver, 46 Copper
+2/14 16:37:56.596  You receive loot: Ghastly Crown
+2/14 16:37:56.861  You receive loot: Tendrils of Ectoplasmx2
+2/14 16:37:57.823  You receive currency: Stygiax1
+2/14 16:38:04.480  You loot 1 Gold, 17 Silver, 26 Copper
+2/14 16:38:09.011  Imprisoned Soul says: They have taken... everything...
+2/14 16:38:10.048  The soul enters your Soulkeeper.
+2/14 16:38:30.030  You receive loot: Mawsworn Weapon
+2/14 16:38:30.244  You receive loot: Shrouded Cloth
+2/14 16:38:30.846  You loot 91 Silver, 98 Copper
+2/14 16:38:31.419  You receive currency: Stygiax1
+2/14 16:38:48.985  Imprisoned Soul says: I... do not... deserve this...
+2/14 16:38:51.165  The soul enters your Soulkeeper.
+2/14 16:38:59.261  Imprisoned Soul says: Can you... hear me?
+2/14 16:39:00.538  The soul enters your Soulkeeper.
+2/14 16:39:11.679  Imprisoned Soul says: Can you... hear me?
+2/14 16:39:13.134  The soul enters your Soulkeeper.
+2/14 16:39:28.164  You receive loot: Relic Fragmentx15
+2/14 16:39:28.335  You receive loot: Faded Razorwing Anatomy Illustrationx4
+2/14 16:39:28.509  You receive loot: Encrypted Korthian Journalx4
+2/14 16:39:28.665  You receive loot: Ancient Anima Vesselx6
+2/14 16:39:41.140  You loot 1 Gold, 95 Silver, 31 Copper
+2/14 16:39:41.335  You receive currency: Stygiax1
+2/14 16:39:50.840  You receive loot: Mawsworn Weapon
+2/14 16:39:51.675  You loot 85 Silver, 7 Copper
+2/14 16:39:52.030  You receive currency: Stygiax1
+2/14 16:40:11.241  You receive loot: Mawsworn Weapon
+2/14 16:40:12.139  You loot 1 Gold, 55 Silver, 77 Copper
+2/14 16:40:12.415  You receive currency: Stygiax2
+2/14 16:40:30.613  You create: Lovely Charm.
+2/14 16:40:35.531  You create: Lovely Charm.
+2/14 16:40:46.245  You create: Lovely Charm.
+2/14 16:40:47.521  You receive loot: Shade Eyesx2
+2/14 16:40:48.108  You receive loot: Tendrils of Ectoplasmx5
+2/14 16:40:48.108  You receive loot: Shrouded Clothx2
+2/14 16:40:48.108  You receive loot: Ghastly Crown
+2/14 16:40:48.108  You receive loot: Wisp of Life
+2/14 16:40:48.692  You receive currency: Stygiax5
+2/14 16:40:49.111  You loot 2 Gold, 20 Silver, 29 Copper
+2/14 16:40:49.881  Imprisoned Soul says: They have taken... everything...
+2/14 16:40:51.892  The soul enters your Soulkeeper.
+2/14 16:41:00.138  You receive loot: Tendrils of Ectoplasm
+2/14 16:41:00.531  You receive loot: Ephemeral Digits
+2/14 16:41:01.344  You receive currency: Stygiax1
+2/14 16:41:21.048  Reputation with Ve'nari increased by 40.
+2/14 16:41:24.013  Imprisoned Soul says: Are... you... real?
+2/14 16:41:25.105  The soul enters your Soulkeeper.
+2/14 16:41:25.311  You receive loot: Fallen Adventurer's Cache
+2/14 16:41:25.488  You receive loot: Sliver of Entropy
+2/14 16:41:26.149  You receive currency: Stygiax56
+2/14 16:41:30.708  You receive loot: Brutally Sundered Mallet
+2/14 16:41:31.498  You loot 28 Gold, 98 Silver, 77 Copper
+2/14 16:41:41.392  You create: Lovely Charm.
+2/14 16:41:47.238  You receive loot: Shade Eyesx2
+2/14 16:41:47.393  You receive loot: Tendrils of Ectoplasmx2
+2/14 16:41:47.865  You loot 1 Gold, 44 Silver, 83 Copper
+2/14 16:41:47.984  You receive currency: Stygiax3
+2/14 16:41:50.049  Imprisoned Soul says: They have taken... everything...
+2/14 16:41:52.215  The soul enters your Soulkeeper.
+2/14 16:41:56.379  You create: Lovely Charm.
+2/14 16:41:57.533  You receive loot: Ghastly Crown
+2/14 16:41:57.683  You receive loot: Tendrils of Ectoplasmx2
+2/14 16:41:58.929  You receive currency: Stygiax1
+2/14 16:42:04.404  Imprisoned Soul says: Take me away... from here.
+2/14 16:42:05.564  The soul enters your Soulkeeper.
+2/14 16:42:11.593  Imprisoned Soul says: The last of my strength... is yours.
+2/14 16:42:12.998  The soul enters your Soulkeeper.
+2/14 16:42:25.263  You receive loot: Ghastly Crown
+2/14 16:42:25.448  You receive loot: Tendrils of Ectoplasm
+2/14 16:42:25.555  You receive loot: Ephemeral Digits
+2/14 16:42:26.784  You receive currency: Stygiax1
+2/14 16:42:32.053  Imprisoned Soul says: They have taken... everything...
+2/14 16:42:33.334  The soul enters your Soulkeeper.
+2/14 16:42:53.646  You create: Lovely Charm.
+2/14 16:42:55.452  You receive loot: Shade Eyesx2
+2/14 16:42:55.703  You receive loot: Tendrils of Ectoplasmx4
+2/14 16:42:56.832  You receive currency: Stygiax1
+2/14 16:43:10.775  You receive loot: Tendrils of Ectoplasmx4
+2/14 16:43:11.209  You receive loot: Ghastly Crown
+2/14 16:43:11.933  You receive currency: Stygiax3
+2/14 16:43:17.559  You create: Lovely Charm.
+2/14 16:43:21.518  Imprisoned Soul says: I... do not... deserve this...
+2/14 16:43:22.536  The soul enters your Soulkeeper.
+2/14 16:43:22.740  You receive loot: Tendrils of Ectoplasmx2
+2/14 16:43:33.065  You create: Lovely Charm.
+2/14 16:43:34.356  You receive loot: Mawsworn Weapon
+2/14 16:43:35.148  You loot 78 Silver, 4 Copper
+2/14 16:43:35.487  You receive currency: Stygiax1
+2/14 16:43:36.600  Imprisoned Soul says: Are... you... real?
+2/14 16:43:38.923  The soul enters your Soulkeeper.
+2/14 16:43:48.943  Imprisoned Soul says: Please... take my blessing.
+2/14 16:43:50.293  The soul enters your Soulkeeper.
+2/14 16:43:57.209  You create: Lovely Charm.
+2/14 16:43:58.836  You receive loot: Tendrils of Ectoplasmx2
+2/14 16:43:59.983  You receive currency: Stygiax1
+2/14 16:44:05.819  You create: Lovely Charm.
+2/14 16:44:07.385  You receive loot: Ghastly Crown
+2/14 16:44:07.643  You receive loot: Tendrils of Ectoplasmx2
+2/14 16:44:08.580  You receive currency: Stygiax1
+2/14 16:44:16.330  Imprisoned Soul says: Take me away... from here.
+2/14 16:44:17.475  The soul enters your Soulkeeper.
+2/14 16:44:31.368  Imprisoned Soul says: Take me away... from here.
+2/14 16:44:32.968  The soul enters your Soulkeeper.
+2/14 16:44:40.287  Imprisoned Soul says: Please... take my blessing.
+2/14 16:44:42.349  The soul enters your Soulkeeper.
+2/14 16:44:48.125  You receive loot: Shrouded Clothx2
+2/14 16:44:48.990  You loot 1 Gold, 33 Silver, 63 Copper
+2/14 16:44:49.302  You receive currency: Stygiax1
+2/14 16:44:50.544  Iâlluen has gone offline.
+2/14 16:44:53.653  You create: Lovely Charm.
+2/14 16:44:54.922  You receive loot: Mawsworn Weapon
+2/14 16:44:55.044  You receive loot: Shrouded Clothx2
+2/14 16:44:55.661  You loot 1 Gold, 52 Silver, 67 Copper
+2/14 16:44:56.329  You receive currency: Stygiax1
+2/14 16:45:05.504  Imprisoned Soul says: Take me away... from here.
+2/14 16:45:07.647  The soul enters your Soulkeeper.
+2/14 16:45:20.912  Reputation with Court of Harvesters increased by 125.
+2/14 16:45:21.065  Fangcrack's Fan Club completed.
+2/14 16:45:21.113  You receive item: Agony Enrichment Devicex4
+2/14 16:45:21.117  You receive item: Singed Soul Shacklesx5
+2/14 16:45:26.623  Reputation with Court of Harvesters increased by 125.
+2/14 16:45:26.742  Weapons of the Tremaculum completed.
+2/14 16:45:26.764  You receive item: Darkhaven Soul Lanternx4
+2/14 16:45:26.811  You receive item: Counterfeit Ruby Broochx5
+2/14 16:45:28.823  Reputation with The Wild Hunt increased by 125.
+2/14 16:45:29.007  That's a Good Trick completed.
+2/14 16:45:29.067  You receive item: Totem of Stolen Mojox6
+2/14 16:45:29.113  You receive item: Fossilized Heartwoodx5
+2/14 16:45:52.263  Imprisoned Soul says: I... do not... deserve this...
+2/14 16:45:54.397  The soul enters your Soulkeeper.
+2/14 16:46:03.142  Stonehead says: Don't be bad bud!
+2/14 16:46:10.629  Imprisoned Soul says: A taste... of hope.
+2/14 16:46:11.920  Mortdorei has gone offline.
+2/14 16:46:12.653  The soul enters your Soulkeeper.
+2/14 16:46:14.431  Burly Hurly says: Don't worry, I throw good!
+2/14 16:46:24.438  Cryptkeeper Kassir says: Thank you, Maw Walker.
+2/14 16:46:25.280  Temel says: The party herald's got this covered.
+2/14 16:47:30.291  Fangcrack says: Aw, I was hopin' for a treasure chest...
+2/14 16:47:45.648  Reputation with Court of Harvesters increased by 125.
+2/14 16:47:45.666  You receive item: Mature Cryptbloomx5
+2/14 16:47:45.666  You receive item: Singed Soul Shacklesx5
+2/14 16:47:45.705  Wrath of the Party Herald completed.
+2/14 16:47:47.786  General Draven says: Hold tight!
+2/14 16:47:49.846  Prince Renathal says: With the power of Revendreth and Ardenweald united, even the most dreaded of the Jailer's beasts will fall with ease!
+2/14 16:47:59.358  Prince Renathal says: However, I did not expect it to be quite so large...
+2/14 16:48:03.941  Lady Moonberry says: Look, now it's easier to hit!
+2/14 16:48:18.159  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 16:48:18.163  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 16:48:55.577  Executioner Adrastia yells: Darkwall Tower belongs to the Master!
+2/14 16:49:58.455  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 16:49:58.455  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 16:50:14.532  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 16:50:14.532  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 16:50:42.880  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 16:50:42.884  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 16:50:46.176  Reputation with Death's Advance increased by 350.
+2/14 16:50:46.176  Reputation with Court of Harvesters increased by 1000.
+2/14 16:50:46.448  You receive item: Harvester's War Chest
+2/14 16:50:47.432  Prince Renathal says: And so the Tremaculum is ours. For the Shadowlands!
+2/14 16:51:28.099  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 16:51:28.103  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 16:51:41.808  No player named 'Wirinom' is currently playing.
+2/14 16:51:41.808  No player named 'Wirinom' is currently playing.
+2/14 16:51:58.187  No player named 'Mawembi' is currently playing.
+2/14 16:51:58.187  No player named 'Mawembi' is currently playing.
+2/14 16:52:02.201  %s has earned the achievement Unwavering Bond!
+2/14 16:52:05.943  %s has earned the achievement A Resolute Bond!
+2/14 16:52:08.070  You receive item: The Mad Duke's Tea
+2/14 16:52:45.852  975 Anima infused into the Reservoir.
+2/14 16:52:49.246  No player named 'Teaky' is currently playing.
+2/14 16:52:49.246  No player named 'Teaky' is currently playing.
+2/14 16:52:59.210  No player named 'Garborg-Moonglade' is currently playing.
+2/14 16:52:59.210  No player named 'Garborg-Moonglade' is currently playing.
+2/14 16:53:10.910  No player named 'Ishkander-DefiasBrotherhood' is currently playing.
+2/14 16:53:10.910  No player named 'Ishkander-DefiasBrotherhood' is currently playing.
+2/14 16:53:25.964  No player named 'Vaniri-DefiasBrotherhood' is currently playing.
+2/14 16:53:25.964  No player named 'Vaniri-DefiasBrotherhood' is currently playing.
+2/14 16:53:29.426  [10. xtensionxtooltip2] Draganigos-ArgentDawn: GHI2ChannelReadyCheck
+2/14 16:53:34.437  No player named 'Sicklikeher' is currently playing.
+2/14 16:53:34.639  No player named 'Sicklikeher' is currently playing.
+2/14 16:53:39.882  No player named 'Vaniri-DefiasBrotherhood' is currently playing.
+2/14 16:53:40.213  No player named 'Kamratlux' is currently playing.
+2/14 16:53:40.213  No player named 'Kamratlux' is currently playing.
+2/14 16:54:05.979  Return More Lost Souls completed.
+2/14 16:54:38.910  Quest accepted: Return More Lost Souls
+2/14 16:55:05.113  No player named 'Mikz-DefiasBrotherhood' is currently playing.
+2/14 16:55:05.113  No player named 'Mikz-DefiasBrotherhood' is currently playing.
+2/14 16:55:09.608  You have gained Anima Power: Inner Child
+2/14 16:55:13.915  No player named 'Teaky' is currently playing.
+2/14 16:55:33.085  No player named 'Teaky' is currently playing.
+2/14 16:55:43.583  No player named 'Teaky' is currently playing.
+2/14 16:55:55.620  No player named 'Teaky' is currently playing.
+2/14 16:56:02.791  Teaky cheers at you.
+2/14 16:56:06.913  No player named 'Xanthera-DefiasBrotherhood' is currently playing.
+2/14 16:56:06.913  No player named 'Xanthera-DefiasBrotherhood' is currently playing.
+2/14 16:56:14.660  No player named 'Bedezee-ScarshieldLegion' is currently playing.
+2/14 16:56:14.660  No player named 'Bedezee-ScarshieldLegion' is currently playing.
+2/14 16:56:28.182  No player named 'Teaky' is currently playing.
+2/14 16:56:39.005  No player named 'Teaky' is currently playing.
+2/14 16:56:44.459  You wave goodbye to Teaky. Farewell!
+2/14 16:56:48.063  Teaky waves goodbye to you. Farewell!
+2/14 16:56:49.299  No player named 'Wirinom' is currently playing.
+2/14 16:56:49.299  No player named 'Wirinom' is currently playing.
+2/14 16:56:51.805  Left Channel: |Hchannel:1710199296|h[(null)]|h 
+2/14 17:14:45.927  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 17:14:46.364  |Hchannel:CHANNEL:0|h[MusicianComm]|h *Epóch-ArgentDawn, Antrose-ArgentDawn, Drathael-ArgentDawn, Francés-ArgentDawn, Jeannë-ArgentDawn, Yueliàng-ArgentDawn, Melky-ArgentDawn, Samcollins-ArgentDawn, Vargestin-ArgentDawn, Arroweyejack-ArgentDawn, Yrthoseia-ArgentDawn, Aurlain-ArgentDawn, Mainard-ArgentDawn, Tenesha-ArgentDawn, Davíona-ArgentDawn, Jiyazhu-ArgentDawn, Sevastus-ArgentDawn, Bhadel-ArgentDawn, Dragoelf-ArgentDawn, Yarín-ArgentDawn, Rezûul-ArgentDawn, Ephimeral-ArgentDawn, Nëwbürry-ArgentDawn, Kélarah-ArgentDawn
+2/14 17:14:46.366  |Hchannel:CHANNEL:0|h[MusicianComm]|h Fayole-ArgentDawn, Ôbiwan-ArgentDawn, Irveth-ArgentDawn, Peveth-ArgentDawn, Chiseler-ArgentDawn, Keithbell-ArgentDawn, Armor-ArgentDawn, Hoonterbecca-ArgentDawn, Softspirit-ArgentDawn, Sothoss-ArgentDawn, Christia-ArgentDawn, Thariss-ArgentDawn, Mekthestag-ArgentDawn, Venaviel-ArgentDawn, Karalu-ArgentDawn, Emptystrike-ArgentDawn, Lärcenist-ArgentDawn, Stéffan-ArgentDawn, Andrastian-ArgentDawn, Blimsy-ArgentDawn, Cynthin-ArgentDawn, Tezzlinn-ArgentDawn, Tenebries-ArgentDawn, Bórk-ArgentDawn
+2/14 17:14:46.366  |Hchannel:CHANNEL:0|h[MusicianComm]|h Arlièn-ArgentDawn, Everdeens-ArgentDawn, Trivalas-ArgentDawn, Gnorfell-ArgentDawn, Nosvaa-ArgentDawn, Sleeto-ArgentDawn, Ireleiil-ArgentDawn, Poisonclaw-ArgentDawn, Vorrthuss-ArgentDawn, Nelearyn-ArgentDawn, Addelanne-ArgentDawn, Rheinon-ArgentDawn, Yvainedore-ArgentDawn, Fenisaya-ArgentDawn, Neraliyah-ArgentDawn, Moridian-ArgentDawn, Halesy-ArgentDawn, Olandra-ArgentDawn, Brineburn-ArgentDawn, Mïchael-ArgentDawn, Tylìs-ArgentDawn, Gazzlib-ArgentDawn, Linmanuelmir-ArgentDawn, Benrus-ArgentDawn
+2/14 17:14:46.366  |Hchannel:CHANNEL:0|h[MusicianComm]|h Jóhanna-ArgentDawn, Clarketh-ArgentDawn, Dralasiel-ArgentDawn, Xayà-ArgentDawn, Meltryliss-ArgentDawn, Zeiderr-ArgentDawn, Kæning-ArgentDawn, Mervyn-ArgentDawn, Naphael-ArgentDawn, Jaedyth-ArgentDawn, Crimsonfist-ArgentDawn, Immortues-ArgentDawn, Steir-ArgentDawn, Nawaar-ArgentDawn, Remeraa-ArgentDawn, Kälinsara-ArgentDawn, Espeonx-ArgentDawn, Syecina-ArgentDawn, Aradithal-ArgentDawn, Alenthras-ArgentDawn, Môrág-ArgentDawn, Colmere-ArgentDawn, Shinyhoof-ArgentDawn, Sxlvxr-ArgentDawn
+2/14 17:14:46.366  |Hchannel:CHANNEL:0|h[MusicianComm]|h Lowryn-ArgentDawn, Tsuumi-ArgentDawn, Aireana-ArgentDawn, Gustar-ArgentDawn, Leveira-ArgentDawn, Theerlynn-ArgentDawn, Wildhaven-ArgentDawn, Thandarin-ArgentDawn, Zysharr-ArgentDawn, Zarandiir-ArgentDawn, Lauralae-ArgentDawn, Narwien-ArgentDawn, Kidaloron-ArgentDawn, Ashfalla-ArgentDawn, Ismáel-ArgentDawn, Morrowe-ArgentDawn, Walerea-ArgentDawn, Highfate-ArgentDawn, Octarvie-ArgentDawn, Drácor-ArgentDawn, Davìus-ArgentDawn, Oftia-ArgentDawn, Sonarïa-ArgentDawn, Uldorus-ArgentDawn, Kàmrynn-ArgentDawn
+2/14 17:14:46.366  |Hchannel:CHANNEL:0|h[MusicianComm]|h Danieellas-ArgentDawn, Vicinitus-ArgentDawn, Émira-ArgentDawn, Ramsie-ArgentDawn, Kílaran-ArgentDawn, Annikah-ArgentDawn, Ascetichoove-ArgentDawn, Goldenfield-ArgentDawn, Andagard-ArgentDawn, Darthjazkier-ArgentDawn, Thoredin-ArgentDawn, Catheríine-ArgentDawn, Craawford-ArgentDawn, Xänder-ArgentDawn, Míresgaleth-ArgentDawn, Naliseya-ArgentDawn, Rakzar-ArgentDawn, Sharm-ArgentDawn, Matraga-ArgentDawn, Illilene-ArgentDawn, Panelina-ArgentDawn, Frayye-ArgentDawn, Knuutnuut-ArgentDawn, Maxiea-ArgentDawn
+2/14 17:14:46.366  |Hchannel:CHANNEL:0|h[MusicianComm]|h Qualithian-ArgentDawn, Daehlia-ArgentDawn, Shout-ArgentDawn, Wyntersbite-ArgentDawn, Whyler-ArgentDawn, Shamániac-ArgentDawn, Noramarthiel-ArgentDawn, Kalyvia-ArgentDawn, Sajira-ArgentDawn, Walsher-ArgentDawn, Shaethorpe-ArgentDawn, Scarletmire-ArgentDawn, Slyvïa-ArgentDawn
+2/14 17:14:47.959  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 17:14:58.485  Telathas has come online.
+2/14 17:15:17.637  FRIEND_ONLINE
+2/14 17:16:46.461  No player named 'Elbala-DefiasBrotherhood' is currently playing.
+2/14 17:16:46.461  No player named 'Elbala-DefiasBrotherhood' is currently playing.
+2/14 17:16:48.592  You receive currency: Soul Cindersx100
+2/14 17:16:48.727  You receive item: Korthite Crystalx2
+2/14 17:16:48.727  You receive item: Korthian Cypher Bookx5
+2/14 17:16:49.597  You receive currency: Sinstone Fragmentsx62
+2/14 17:16:49.597  You receive currency: Stygiax200
+2/14 17:18:04.157  No player named 'Sasquatch' is currently playing.
+2/14 17:18:04.157  No player named 'Sasquatch' is currently playing.
+2/14 17:18:07.427  Dalathria has come online.
+2/14 17:18:51.524  No player named 'Elbala-DefiasBrotherhood' is currently playing.
+2/14 17:19:34.791  No player named 'Saintsatan' is currently playing.
+2/14 17:19:34.791  No player named 'Saintsatan' is currently playing.
+2/14 17:20:44.400  No player named 'Corchon' is currently playing.
+2/14 17:20:44.400  No player named 'Corchon' is currently playing.
+2/14 17:20:55.205  Dalathria has gone offline.
+2/14 17:21:41.068  %s has earned the achievement It Might Just Save Your Life!
+2/14 17:21:53.835  You are now Away: AFK
+2/14 17:23:51.459  No player named 'Alaynah' is currently playing.
+2/14 17:23:51.459  No player named 'Alaynah' is currently playing.
+2/14 17:28:54.547  No player named 'Vaniri-DefiasBrotherhood' is currently playing.
+2/14 17:28:54.547  No player named 'Vaniri-DefiasBrotherhood' is currently playing.
+2/14 17:29:14.693  No player named 'Silas-ScarshieldLegion' is currently playing.
+2/14 17:29:14.693  No player named 'Silas-ScarshieldLegion' is currently playing.
+2/14 17:29:33.239  No player named 'Silas-ScarshieldLegion' is currently playing.
+2/14 17:29:39.839  No player named 'Glacé' is currently playing.
+2/14 17:29:39.839  No player named 'Glacé' is currently playing.
+2/14 17:31:57.114  No player named 'Revenous' is currently playing.
+2/14 17:31:57.114  No player named 'Revenous' is currently playing.
+2/14 17:33:18.083  Nitzuss has come online.
+2/14 17:33:54.716  FRIEND_OFFLINE
+2/14 17:34:04.220  Revenous creates Shadowghast Ingot.
+2/14 17:34:22.752  Telathas has gone offline.
+2/14 17:34:30.512  Nitzuss has gone offline.
+2/14 17:34:44.887  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 17:34:44.887  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 17:35:00.414  You are now queued in the Dungeon Finder.
+2/14 17:35:56.924  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 17:35:56.924  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 17:36:11.288  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 17:36:11.288  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 17:36:20.551  Dungeon Difficulty set to Event.
+2/14 17:36:23.172  Changed Channel: |Hchannel:1709944656|h[(null)]|h
+2/14 17:36:23.172  Changed Channel: |Hchannel:1709944656|h[(null)]|h
+2/14 17:36:35.480  You have unlearned Watch the Shoes!.
+2/14 17:36:35.480  You have unlearned Soothing Shade.
+2/14 17:36:35.480  You have unlearned Token of Appreciation.
+2/14 17:36:35.492  You have unlearned Life of the Party.
+2/14 17:36:35.519  Soulbound with Nadjia the Mistblade.
+2/14 17:36:39.865  Apothecary Hummel says: But what does it matter.  It is time for this to end.
+2/14 17:36:49.622  Apothecary Hummel says: Baxter! Get in here and help! NOW!
+2/14 17:36:58.127  Apothecary Hummel says: It is time, Frye!  Attack!
+2/14 17:37:02.031  Apothecary Hummel says: ...please don't think less of me.
+2/14 17:37:07.825  Apothecary Baxter says: A little of this... A little of that...
+2/14 17:37:09.268  Apothecary Baxter says: It has been the greatest honor of my life to serve with you, Hummel.
+2/14 17:37:22.248  Received 25 Gold, 74 Silver.
+2/14 17:37:22.290  Apothecary Frye says: Great. We're not gutless, we're incompetent.
+2/14 17:37:22.290  %s has earned the achievement Tough Love!
+2/14 17:37:22.349  You receive item: Heart-Shaped Box
+2/14 17:37:25.321  Shootja-Ravencrest receives loot: Love Tokenx7.
+2/14 17:37:26.180  You receive loot: Love Tokenx7
+2/14 17:37:26.544  Tychee-Ravencrest receives loot: Love Tokenx8.
+2/14 17:37:26.960  You loot 22 Gold, 93 Silver, 99 Copper
+2/14 17:37:27.259  Ituku-Ravencrest receives loot: "VICTORY" Perfumex2.
+2/14 17:37:27.402  Ituku-Ravencrest receives loot: "Enchantress" Perfume.
+2/14 17:37:27.559  Ituku-Ravencrest receives loot: "Forever" Perfumex2.
+2/14 17:37:27.781  Ituku-Ravencrest receives loot: "Bravado" Cologne.
+2/14 17:37:27.896  Ituku-Ravencrest receives loot: "Wizardry" Colognex2.
+2/14 17:37:28.054  Ituku-Ravencrest receives loot: "STALWART" Colognex2.
+2/14 17:37:29.487  Ituku-Ravencrest receives loot: Love Tokenx8.
+2/14 17:37:29.660  Tychee-Ravencrest receives loot: Heartbreak Charm.
+2/14 17:37:30.336  Blasterjr-Ravencrest receives loot: Love Rocketx6.
+2/14 17:37:30.548  Blasterjr-Ravencrest receives loot: Faded Lovely Greeting Card.
+2/14 17:37:30.607  Shootja-Ravencrest has left the instance group.
+2/14 17:37:31.186  Ituku-Ravencrest has left the instance group.
+2/14 17:37:33.832  Tychee-Ravencrest has left the instance group.
+2/14 17:37:34.773  Blasterjr-Ravencrest receives loot: Love Tokenx8.
+2/14 17:37:36.345  Blasterjr-Ravencrest has left the instance group.
+2/14 17:37:40.419  You leave the group.
+2/14 17:38:00.180  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 17:38:00.180  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 17:38:12.642  Legacy loot rules are enabled.
+2/14 17:38:12.809  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 17:38:12.809  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 17:38:14.781  Lord Victor Nefarius yells: Welcome to my personal sanctum, heroes! I hope you find the accommodations to your liking. Herein you will find many of my failed experiments and ultimately my greatest triumph!
+2/14 17:38:48.132  You have learned a new passive effect: Watch the Shoes!.
+2/14 17:38:48.149  You have learned a new passive effect: Soothing Shade.
+2/14 17:38:48.164  You have learned a new passive effect: Token of Appreciation.
+2/14 17:38:48.181  You have learned a new passive effect: Life of the Party.
+2/14 17:38:48.207  Soulbound with Theotar the Mad Duke.
+2/14 17:38:49.363  You receive loot: Highperch Greaves of the Aurora
+2/14 17:39:12.189  You are now saved to this instance
+2/14 17:39:12.189  Omnotron yells: Defense systems obliterated. Powering down...
+2/14 17:39:17.652  You loot 25 Gold, 77 Silver, 29 Copper
+2/14 17:39:27.334  Lord Victor Nefarius yells: That malfunctioning piece of junk was murder on the repair bills.
+2/14 17:39:54.506  You loot 26 Gold, 45 Silver, 42 Copper
+2/14 17:39:54.707  You receive loot: Parasitic Bands
+2/14 17:39:55.031  Parasitic Bands has been added to your appearance collection.
+2/14 17:39:57.195  You receive loot: Akirus the Worm-Breaker
+2/14 17:39:57.448  Akirus the Worm-Breaker has been added to your appearance collection.
+2/14 17:40:07.333  Lord Victor Nefarius yells: Finally someone to deal with that unsightly pest! You have my thanks, "heroes."
+2/14 17:40:58.004  Maloriak yells: There can be no disruptions! Mustn't keep the master waiting! Mustn't fail again!
+2/14 17:40:59.005  Maloriak yells: There will never be another like me...
+2/14 17:41:01.447  You loot 26 Gold, 98 Silver, 81 Copper
+2/14 17:41:02.176  You receive loot: Aberration's Leggings
+2/14 17:41:02.502  Aberration's Leggings has been added to your appearance collection.
+2/14 17:41:15.048  Lord Victor Nefarius yells: We never did see eye to eye... Good riddance I say!
+2/14 17:41:51.536  You receive loot: Wolk's Blunted Shiv
+2/14 17:42:02.819  You receive loot: Embersilk Clothx9
+2/14 17:42:06.090  You receive loot: Treads of Savage Beatings
+2/14 17:42:06.958  Lord Victor Nefarius says: Ah, Maloriak. How gracious of you to finally appear from that quarantine you call a laboratory. What have you got this time?
+2/14 17:42:10.510  You receive loot: Ruined Embersilk Scraps
+2/14 17:42:35.108  Atramedes yells: This miserable existence finally ends.
+2/14 17:42:37.530  You loot 26 Gold, 97 Silver, 79 Copper
+2/14 17:42:51.005  Lord Victor Nefarius yells: Now that was really unnecessary.
+2/14 17:43:25.567  You loot 26 Gold, 16 Silver, 26 Copper
+2/14 17:43:28.582  Pip Quickwit yells: Great job guys! The key should be in his guts somewhere. Just, uh, fish around in there 'till you find it.
+2/14 17:43:28.582  The Bile-O-Tron signals in the affirmative and shuts down permanently.
+2/14 17:43:38.284  Lord Victor Nefarius yells: Impressive. You have managed to destroy one of my most horrific creations, a task I had thought impossible until now.
+2/14 17:44:03.515  Lord Victor Nefarius yells: Ha ha ha ha ha! The heroes have made it to the glorious finale. I take it you are in good spirits? Prepared for the final battle? Then gaze now upon my ultimate creation! RISE, SISTER!
+2/14 17:44:25.172  Lord Victor Nefarius yells: Behold the brood mother, Onyxia, REBORN! Perhaps my finest work.
+2/14 17:44:36.046  Lord Victor Nefarius yells: My dearest sibling, do you hunger? THEN FEAST UPON OUR ENEMIES!
+2/14 17:44:39.702  The air crackles with electricity!
+2/14 17:45:24.881  Nefarian yells: See how the shadowflame animates their bones! They fight at my command!
+2/14 17:45:58.966  Nefarian yells: Curse you, mortals! Such a callous disregard for one's possessions must be met with extreme force!
+2/14 17:46:02.152  Nefarian yells: Defeat has never tasted so bitter...
+2/14 17:46:07.404  You loot 25 Gold, 83 Silver, 14 Copper
+2/14 17:46:10.948  You receive loot: Helm of the Forlorn Vanquisher
+2/14 17:46:13.054  You receive loot: Andoros, Fist of the Dragon King
+2/14 17:46:13.322  Andoros, Fist of the Dragon King has been added to your appearance collection.
+2/14 17:46:20.242  You receive item: Stormrider's Helm
+2/14 17:46:20.602  Stormrider's Helm has been added to your appearance collection.
+2/14 17:46:43.823  FRIEND_OFFLINE
+2/14 17:46:55.090  Legacy loot rules are no longer in effect.
+2/14 17:46:55.245  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 17:46:55.245  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 17:47:18.366  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 17:47:18.370  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 17:48:33.764  Legacy loot rules are enabled.
+2/14 17:48:33.879  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 17:48:33.879  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 17:48:39.065  Ragnaros yells: Mortal Insects! You dare trespass into MY domain?  Your arrogance will be purged in living flame.
+2/14 17:48:53.584  Tharandrél has come online.
+2/14 17:49:19.556  You receive item: Firescar Sash
+2/14 17:49:19.802  Firescar Sash has been added to your appearance collection.
+2/14 17:49:21.628  You receive item: Flamebinding Girdle
+2/14 17:49:21.829  Flamebinding Girdle has been added to your appearance collection.
+2/14 17:49:29.077  You receive item: Sleek Flamewrath Cloak
+2/14 17:49:29.154  Sleek Flamewrath Cloak has been added to your appearance collection.
+2/14 17:49:46.317  You loot 54 Silver, 97 Copper
+2/14 17:49:56.575  You loot 5 Gold, 79 Silver, 91 Copper
+2/14 17:50:08.529  You loot 5 Gold, 67 Silver, 82 Copper
+2/14 17:50:18.034  You loot 7 Gold, 78 Silver, 94 Copper
+2/14 17:50:20.822  You receive loot: Obsidium Cleaver
+2/14 17:50:21.984  You loot 1 Gold, 32 Silver, 86 Copper
+2/14 17:50:39.516  
+2/14 17:50:43.150  You loot 5 Gold, 10 Silver, 17 Copper
+2/14 17:50:47.217  
+2/14 17:50:49.535  You loot 8 Gold, 64 Silver, 91 Copper
+2/14 17:50:53.169  You loot 1 Gold, 56 Silver, 81 Copper
+2/14 17:51:03.072  You loot 5 Gold, 81 Silver, 78 Copper
+2/14 17:51:09.450  You loot 7 Gold, 39 Silver, 98 Copper
+2/14 17:51:26.075  The Molten Eggs begin to crack and splinter!
+2/14 17:51:43.965  Majordomo Staghelm yells: What have we here - visitors to our kingdom in the Firelands?
+2/14 17:51:51.155  Majordomo Staghelm yells: You mortals may remember Alysra, who spirited me to freedom in Mount Hyjal. She, too has been reborn. Born of flame!
+2/14 17:52:06.961  Majordomo Staghelm yells: I wish I could watch her reduce your pitiful band to cinders, but I am needed elsewhere. Farewell!
+2/14 17:52:21.570  Alysrazor yells: I serve a new master now, mortals!
+2/14 17:52:32.228  You are now saved to this instance
+2/14 17:52:36.950  You loot 13 Gold, 61 Silver, 25 Copper
+2/14 17:52:37.065  You receive loot: Wings of Flame
+2/14 17:52:37.105  Wings of Flame has been added to your appearance collection.
+2/14 17:52:38.791  You receive loot: Phoenix-Down Treads
+2/14 17:52:39.145  Phoenix-Down Treads has been added to your appearance collection.
+2/14 17:52:39.965  You receive loot: Alysra's Razor
+2/14 17:52:40.362  Alysra's Razor has been added to your appearance collection.
+2/14 17:53:06.843  Kar the Everburning retreats and calls for the protection of his allies!
+2/14 17:53:14.414  You loot 1 Gold, 45 Silver, 83 Copper
+2/14 17:53:18.978  You loot 47 Silver, 6 Copper
+2/14 17:53:34.721  Lord Rhyolith yells: Hah? Hruumph? Soft little fleshy-things? Here? Nuisances, nuisances!
+2/14 17:53:38.104  Lord Rhyolith stumbles as his armor is shattered!
+2/14 17:53:38.104  Lord Rhyolith yells: Eons I have slept undisturbed... Now this... Creatures of flesh, now you will BURN!
+2/14 17:53:38.718  Lord Rhyolith yells: Broken. Mnngghhh... broken...
+2/14 17:53:46.448  You loot 13 Gold, 37 Silver, 94 Copper
+2/14 17:53:49.302  Hood of Rampant Disdain has been added to your appearance collection.
+2/14 17:53:49.309  You receive loot: Hood of Rampant Disdain
+2/14 17:53:50.602  You receive loot: Living Ember
+2/14 17:54:33.328  Flamewaker Subjugator says: Keep casting! I will dispose of them.
+2/14 17:54:42.981  Unstable Magma yells: TO THE GROUND!
+2/14 17:55:07.408  You loot 88 Silver, 17 Copper
+2/14 17:55:14.710  You loot 93 Silver, 34 Copper
+2/14 17:55:17.947  Baleroc yells: You are forbidden from my master's domain, mortals.
+2/14 17:55:18.794  Baleroc yells: Mortal filth... the master's keep is forbidden....
+2/14 17:55:21.408  You loot 14 Gold, 40 Silver, 4 Copper
+2/14 17:55:44.198  Unstable Magma yells: MY POWER WILL NOT BE CONTAINED!
+2/14 17:55:46.531  Flamewaker Subjugator says: If these mortals don't kill you, I will!
+2/14 17:55:46.531  Flamewaker Subjugator says: Nothing will remain but a pile of ash!
+2/14 17:55:46.531  Flamewaker Subjugator says: Nothing will remain but a pile of ash!
+2/14 17:55:46.531  Flamewaker Subjugator says: Quicker or I'll turn you into cinder myself!
+2/14 17:55:54.507  You loot 3 Gold, 47 Silver, 83 Copper
+2/14 17:56:48.800  Shannox yells: Yes, I smell them too, Riplimb. Outsiders encroach on the Firelord's private grounds. Find their trail. Find them for me, that I may dispense punishment!
+2/14 17:56:52.374  You loot 5 Gold, 72 Silver, 27 Copper
+2/14 17:56:56.864  You loot 3 Gold, 47 Silver, 40 Copper
+2/14 17:57:02.448  You loot 4 Gold, 25 Silver, 37 Copper
+2/14 17:58:14.412  You loot 12 Gold, 56 Silver, 56 Copper
+2/14 17:58:14.941  You receive loot: Cinderweb Leggings
+2/14 17:58:15.012  Cinderweb Leggings has been added to your appearance collection.
+2/14 17:58:16.179  You receive loot: Cowl of the Clicking Menace
+2/14 17:58:49.883  You loot 84 Silver, 95 Copper
+2/14 17:58:51.149  You receive loot: Robble's Wobbly Staff
+2/14 17:58:51.660  You receive loot: Robble's Wobbly Staff
+2/14 17:59:06.610  You loot 1 Gold, 51 Silver, 75 Copper
+2/14 17:59:10.818  You loot 2 Gold, 97 Silver, 8 Copper
+2/14 17:59:44.615  Shannox yells: A-hah! The interlopers! Kill them. EAT THEM!
+2/14 17:59:47.171  Shannox yells: Ohh... the pain.  Lord of Fire, it hurts....
+2/14 17:59:47.171  Rageface collapses upon seeing his master die!
+2/14 17:59:47.171  Riplimb collapses upon seeing his master die!
+2/14 17:59:49.921  You loot 12 Gold, 52 Silver, 11 Copper
+2/14 17:59:58.584  Majordomo Staghelm yells: Well, well. I admire your tenacity. Baleroc stood guard over this keep for a thousand mortal lifetimes.
+2/14 18:00:09.545  Majordomo Staghelm yells: But none may enter the Firelord's abode!
+2/14 18:00:20.529  Majordomo Staghelm yells: Beg for mercy now, and I may yet allow you to live. Well, "heroes?" What is your answer?
+2/14 18:00:52.565  You kneel before Druid of the Flame.
+2/14 18:00:53.536  Druid of the Flame yells: Kneel before the burning flame!
+2/14 18:01:04.321  Majordomo Staghelm yells: Very well. Witness the raw power of my new Lord!
+2/14 18:01:10.052  You loot 4 Gold, 16 Silver, 12 Copper
+2/14 18:01:16.573  Majordomo Staghelm yells: My studies... had only just begun...
+2/14 18:01:18.865  You loot 14 Gold, 64 Silver, 34 Copper
+2/14 18:01:50.072  You loot 1 Gold, 70 Silver, 60 Copper
+2/14 18:02:09.604  Ragnaros yells: The realm of fire will consume you!
+2/14 18:02:11.241  Ragnaros yells: Your judgment has come!
+2/14 18:02:11.242  Splitting Blow!
+2/14 18:02:20.984  Ragnaros yells: Denizens of flame, come to me!
+2/14 18:02:26.189  Nitzuss has come online.
+2/14 18:02:35.574  Ragnaros yells: Fall to your knees, mortals!  This ends now.
+2/14 18:02:40.454  Ragnaros yells: Too soon! ... You have come too soon...
+2/14 18:02:40.454  |Hchannel:GUILD|h[Guild]|h Nitzuss-ArgentDawn: heyo :)
+2/14 18:02:41.126  Ragnaros yells: Die!
+2/14 18:02:41.126  Splitting Blow!
+2/14 18:02:50.869  Ragnaros yells: Arise, servants of fire, consume their flesh!
+2/14 18:02:55.454  Ragnaros yells: Enough! I will finish this.
+2/14 18:03:04.772  You loot 14 Gold, 70 Silver, 92 Copper
+2/14 18:03:10.973  You receive loot: Sulfuras, the Extinguished Hand
+2/14 18:03:11.062  Sulfuras, the Extinguished Hand has been added to your appearance collection.
+2/14 18:03:14.597  You receive loot: Ko'gun, Hammer of the Firelord
+2/14 18:03:14.708  Ko'gun, Hammer of the Firelord has been added to your appearance collection.
+2/14 18:03:21.652  |Hchannel:GUILD|h[Guild]|h Arlièn-ArgentDawn: Heyhey
+2/14 18:03:25.428  You receive loot: Living Emberx3
+2/14 18:04:06.409  |Hchannel:GUILD|h[Guild]|h Nitzuss-ArgentDawn: how are you?
+2/14 18:04:29.517  |Hchannel:GUILD|h[Guild]|h Arlièn-ArgentDawn: Doing good, what of you?
+2/14 18:04:51.673  |Hchannel:GUILD|h[Guild]|h Nitzuss-ArgentDawn: i'm good thx :)
+2/14 18:05:04.502  |Hchannel:GUILD|h[Guild]|h Nitzuss-ArgentDawn: bit tired but cant complain!
+2/14 18:05:38.493  |Hchannel:GUILD|h[Guild]|h Arlièn-ArgentDawn: Long day?
+2/14 18:05:50.963  |Hchannel:GUILD|h[Guild]|h Nitzuss-ArgentDawn: yeah, lots at work
+2/14 18:06:32.128  |Hchannel:GUILD|h[Guild]|h Nitzuss-ArgentDawn: was suppoed to move this weekend to but no cigar
+2/14 18:06:36.028  |Hchannel:GUILD|h[Guild]|h Nitzuss-ArgentDawn: so i'm a bit spent hehe
+2/14 18:06:45.920  Legacy loot rules are no longer in effect.
+2/14 18:06:46.129  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 18:06:46.129  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 18:07:03.727  |Hchannel:GUILD|h[Guild]|h Arlièn-ArgentDawn: How did it get cancelled?
+2/14 18:08:20.797  |Hchannel:GUILD|h[Guild]|h Nitzuss-ArgentDawn: my buddy was going to rent out his apartment to me but he got into an argument with his wife and before you knew it, he needed the apartment himself :P
+2/14 18:08:25.599  [2. Trade] Góld-ArgentDawn: oops i accidentally logged into wow, meant to log into ffxiv haha XD bye everyone! :3 XD
+2/14 18:08:34.191  [2. Trade] Defiasguy-ArgentDawn: LOL
+2/14 18:08:34.734  [2. Trade] Oxygentank-ArgentDawn:  o/
+2/14 18:08:41.049  |Hchannel:GUILD|h[Guild]|h Nitzuss-ArgentDawn: what are you gonna do
+2/14 18:08:41.953  [2. Trade] Eoreon-ArgentDawn: brave
+2/14 18:08:43.774  [2. Trade] Batmän-ArgentDawn: So funny
+2/14 18:08:56.635  You receive item: Nocturnal Gaze
+2/14 18:08:56.930  Nocturnal Gaze has been added to your appearance collection.
+2/14 18:09:00.340  You receive item: Woundlicker Cover
+2/14 18:09:00.663  Woundlicker Cover has been added to your appearance collection.
+2/14 18:09:01.107  You receive item: Belt of Universal Curing
+2/14 18:09:04.069  [2. Trade] Dimonå-ArgentDawn: Solo player selling achivsConqueror of Azeroth+ mount also Master of Duelsand Horde slayer!(gold only)
+2/14 18:09:04.182  You are refunded 143 Gold, 52 Silver, 80 Copper.
+2/14 18:09:08.432  You receive item: Shadowbinder Chestguard
+2/14 18:09:08.525  Shadowbinder Chestguard has been added to your appearance collection.
+2/14 18:09:11.837  You receive item: Lightfinger Handwraps
+2/14 18:09:11.905  Lightfinger Handwraps has been added to your appearance collection.
+2/14 18:09:54.856  |Hchannel:GUILD|h[Guild]|h Arlièn-ArgentDawn: Auch
+2/14 18:10:00.975  You receive item: Tunic of Sinking Envy
+2/14 18:10:01.127  Tunic of Sinking Envy has been added to your appearance collection.
+2/14 18:10:02.894  You receive item: Sticky Fingers
+2/14 18:10:03.277  Sticky Fingers has been added to your appearance collection.
+2/14 18:10:06.328  |Hchannel:GUILD|h[Guild]|h Nitzuss-ArgentDawn: yea
+2/14 18:10:11.601  You receive item: Mask of Vines
+2/14 18:10:11.723  Mask of Vines has been added to your appearance collection.
+2/14 18:10:12.164  [2. Trade] Sandmen-ArgentDawn: wts 7 Lovely Charm Bracelet
+2/14 18:10:12.510  You receive item: Blessed Hands of Elune
+2/14 18:10:12.740  Blessed Hands of Elune has been added to your appearance collection.
+2/14 18:10:14.219  You receive item: Apple-Bent Bough
+2/14 18:10:14.414  Apple-Bent Bough has been added to your appearance collection.
+2/14 18:10:15.684  You receive item: Leggings of the Burrowing Mole
+2/14 18:10:15.878  Leggings of the Burrowing Mole has been added to your appearance collection.
+2/14 18:10:20.042  You receive item: Leggings of Late Blooms
+2/14 18:10:20.350  Leggings of Late Blooms has been added to your appearance collection.
+2/14 18:10:23.932  You receive item: Somber Shawl
+2/14 18:10:24.147  Somber Shawl has been added to your appearance collection.
+2/14 18:10:27.965  You receive item: Sash of Musing
+2/14 18:10:28.542  Sash of Musing has been added to your appearance collection.
+2/14 18:10:28.858  You receive item: Somber Shawl
+2/14 18:10:32.691  You are refunded 9 Gold, 34 Silver, 97 Copper.
+2/14 18:11:13.357  You receive item: Smolderskull Bindings
+2/14 18:11:14.402  You receive item: Flamebinder Bracers
+2/14 18:11:20.104  You receive item: Obsidian Arborweave Tunic
+2/14 18:11:20.527  Obsidian Arborweave Tunic has been added to your appearance collection.
+2/14 18:11:29.729  You receive item: Smolderskull Bindings
+2/14 18:11:33.036  You receive item: Flamebinder Bracers
+2/14 18:11:35.233  Tharandrél has gone offline.
+2/14 18:11:42.407  Flamebinder Bracers has been added to your appearance collection.
+2/14 18:11:50.049  Smolderskull Bindings has been added to your appearance collection.
+2/14 18:11:50.049  You've completed the set Obsidian Arborweave Vestments (Normal).
+2/14 18:12:02.909  You are refunded 137 Gold, 37 Silver, 60 Copper.
+2/14 18:12:07.009  [1. General] Thelasya-ArgentDawn: [Guild: Fort of Pillows] is currently recruiting new members to join us for 9.2. We raid two days a week (Wed & Sat) from 19:00 to 22:00. Heroic progressionin in a chill atmosphere and at a decent pace.
+2/14 18:12:07.938  You are refunded 137 Gold, 37 Silver, 60 Copper.
+2/14 18:13:09.125  |Hchannel:GUILD|h[Guild]|h Arlièn-ArgentDawn: You did not cancel your own lease yet?
+2/14 18:13:52.663  Tharandrél has come online.
+2/14 18:14:04.641  Tharandrél has gone offline.
+2/14 18:14:20.391  |Hchannel:GUILD|h[Guild]|h Nitzuss-ArgentDawn: Not yet no, thank god
+2/14 18:16:04.776  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 18:16:04.776  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 18:16:07.291  No player named 'Nyxae' is currently playing.
+2/14 18:16:07.291  No player named 'Nyxae' is currently playing.
+2/14 18:16:15.143  No player named 'Fmebae' is currently playing.
+2/14 18:16:15.143  No player named 'Fmebae' is currently playing.
+2/14 18:16:23.954  No player named 'Mongole' is currently playing.
+2/14 18:16:23.954  No player named 'Mongole' is currently playing.
+2/14 18:16:32.495  No player named 'Nayolana' is currently playing.
+2/14 18:16:32.495  No player named 'Nayolana' is currently playing.
+2/14 18:16:51.996  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 18:16:51.996  Left Channel: |Hchannel:1710199296|h[(null)]|h 
+2/14 18:16:51.996  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 18:16:56.602  |Hchannel:GUILD|h[Guild]|h Nitzuss-ArgentDawn: So I'm no worse off than I was earlier, just more tired :P
+2/14 18:17:17.409  No player named 'Strava-TheSha'tar' is currently playing.
+2/14 18:17:17.680  No player named 'Strava-TheSha'tar' is currently playing.
+2/14 18:17:20.397  Reputation with The Archivists' Codex increased by 674.
+2/14 18:17:21.948  You receive currency: Cataloged Researchx899
+2/14 18:17:29.020  No player named 'Strava-TheSha'tar' is currently playing.
+2/14 18:17:42.709  No player named 'Teledra-SteamwheedleCartel' is currently playing.
+2/14 18:17:42.709  No player named 'Teledra-SteamwheedleCartel' is currently playing.
+2/14 18:17:56.921  No player named 'Rahirra' is currently playing.
+2/14 18:17:56.921  No player named 'Rahirra' is currently playing.
+2/14 18:18:07.279  |Hchannel:GUILD|h[Guild]|h Arlièn-ArgentDawn: hehe xD
+2/14 18:18:15.452  No player named 'Jozoj' is currently playing.
+2/14 18:18:15.452  No player named 'Jozoj' is currently playing.
+2/14 18:18:15.910  No player named 'Skypobro' is currently playing.
+2/14 18:18:15.910  No player named 'Skypobro' is currently playing.
+2/14 18:18:17.792  Gwydhienne has come online.
+2/14 18:18:17.792  No player named 'Teledra-SteamwheedleCartel' is currently playing.
+2/14 18:18:26.343  Quest accepted: Razorwing Talons
+2/14 18:18:31.903  No player named 'Tzori' is currently playing.
+2/14 18:18:31.903  No player named 'Tzori' is currently playing.
+2/14 18:19:03.737  [1. General] Kikita-Moonglade: Deadsoul Hatcher up |A:Waypoint-MapPin-ChatIcon:13:13:0:0|a Map Pin Location
+2/14 18:19:09.005  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 18:19:09.009  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 18:19:29.931  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 18:19:29.931  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 18:19:30.071  The Accuser says: The Fearstalker's hopebreakers left these souls to rot. Please remedy this plight.
+2/14 18:19:45.708  Hopebreaker Mursa says: Have you seen the Maw Walker? Speak now or I bleed you dry!
+2/14 18:19:53.569  Prince Renathal says: The Brokers have secured a cache of curious weapons from other realms. Let's see if they will be of any use to our cause.
+2/14 18:19:53.992  FRIEND_OFFLINE
+2/14 18:20:13.081  You receive item: Cartel Exchange Vessel
+2/14 18:20:13.086  Favor: Glittering Primrose Necklace completed.
+2/14 18:20:13.086  Received 77 Gold, 22 Silver.
+2/14 18:22:05.470  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 18:22:05.470  Changed Channel: |Hchannel:1710199056|h[(null)]|h
+2/14 18:22:19.859  35 Anima infused into the Reservoir.
+2/14 18:23:20.502  You receive item: Cloak of Biting Chill
+2/14 18:23:20.819  You receive item: Ironstar Amulet
+2/14 18:23:21.173  You receive item: Kingdom's Heart
+2/14 18:23:21.512  You receive item: Ironstar Amulet
+2/14 18:23:21.847  You receive item: Bracers of the Burningeye
+2/14 18:23:22.184  You receive item: Bracers of the Burningeye
+2/14 18:23:22.545  You receive item: Belt of the Nightmare
+2/14 18:23:22.873  You receive item: Mantle of Nefarius
+2/14 18:23:23.206  You receive item: Pauldrons of the Apocalypse
+2/14 18:23:23.565  You receive item: Prestor's Talisman of Machination
+2/14 18:23:23.871  You receive item: Spaulders of the Scarred Lady
+2/14 18:23:24.207  You receive item: Reclaimed Ashkandi, Greatsword of the Brotherhood
+2/14 18:23:25.173  You receive item: Chaos Beast Bracers
+2/14 18:23:25.512  You receive item: Chimaeron Armguards
+2/14 18:23:25.861  You receive item: Pip's Solution Agitator
+2/14 18:23:26.210  You receive item: Plated Fists of Provocation
+2/14 18:23:26.532  You receive item: Quickstep Galoshes
+2/14 18:23:26.840  You receive item: Circuit Design Breastplate
+2/14 18:23:27.219  You receive item: Power Generator Hood
+2/14 18:23:27.532  You receive item: Power Generator Hood
+2/14 18:23:27.922  You receive item: Organic Lifeform Inverter
+2/14 18:23:28.271  You receive item: Electron Inductor Coils
+2/14 18:23:28.532  You receive item: Incineratus
+2/14 18:23:28.850  You receive item: Lifecycle Waistguard
+2/14 18:23:29.213  You receive item: Lifecycle Waistguard
+2/14 18:23:29.528  You receive item: Jar of Ancient Remedies
+2/14 18:23:29.876  You receive item: Belt of Arcane Storms
+2/14 18:23:30.563  You receive item: Belt of Absolute Zero
+2/14 18:23:36.017  %s has earned the achievement Renowned!
+2/14 18:24:00.038  You receive item: Vessel of Acceleration
+2/14 18:24:00.382  You receive item: Fingers of Incineration
+2/14 18:24:00.708  You receive item: Arathar, the Eye of Flame
+2/14 18:24:01.033  You receive item: Skullstealer Greataxe
+2/14 18:24:01.397  You receive item: Mantle of the Fiery Protector
+2/14 18:24:01.748  You receive item: Bracers of the Dread Hunter
+2/14 18:24:02.102  You receive item: Necklace of Fetishes
+2/14 18:24:02.459  You receive item: Coalwalker Sandals
+2/14 18:24:02.783  You receive item: Uncrushable Belt of Fury
+2/14 18:24:03.145  You receive item: Mantle of the Fiery Protector
+2/14 18:24:03.413  You receive item: Greathelm of the Voracious Maw
+2/14 18:24:04.113  You receive item: Eye of Blazing Power
+2/14 18:24:04.453  You receive item: Treads of the Penitent Man
+2/14 18:24:04.788  You receive item: Flowform Choker
+2/14 18:24:05.147  You receive item: Mantle of the Fiery Protector
+2/14 18:24:06.872  You receive item: Helm of Blazing Glory
+2/14 18:24:07.208  You receive item: Living Emberx3
+2/14 18:24:07.520  You receive item: Casque of Flame
+2/14 18:24:07.850  You receive item: Decimation Treads
+2/14 18:24:08.190  You receive item: Gatekeeper's Embrace
+2/14 18:24:08.540  You receive item: Firethorn Mindslicer
+2/14 18:24:08.937  You receive item: Dreadfire Drape
+2/14 18:24:09.695  You receive item: Grips of the Raging Giant
+2/14 18:24:10.074  You receive item: Lava Line Wristbands
+2/14 18:24:10.409  You receive item: Arbalest of Erupting Fury
+2/14 18:24:10.730  You receive item: Firethorn Mindslicer
+2/14 18:24:11.095  You receive item: Ward of the Red Widow
+2/14 18:24:11.430  You receive item: Robes of Smoldering Devastation
+2/14 18:24:11.740  You receive item: Variable Pulse Lightning Capacitor
+2/14 18:24:12.047  You receive item: Helm of the Fiery Protector
+2/14 18:24:12.369  You receive item: Crown of Flame
+2/14 18:24:18.329  No player named 'Jhalrak' is currently playing.
+2/14 18:24:18.329  No player named 'Jhalrak' is currently playing.
+2/14 18:24:39.926  No player named 'Jhalrak' is currently playing.
+2/14 18:25:04.449  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:06.048  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:07.715  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:09.349  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:10.951  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:12.416  No player named 'Eidanar' is currently playing.
+2/14 18:25:12.416  No player named 'Eidanar' is currently playing.
+2/14 18:25:12.550  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:13.050  %s has earned the achievement Adventures: Protector of the Shadowlands!
+2/14 18:25:14.248  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:15.815  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:17.450  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:19.151  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:20.848  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:22.416  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:23.948  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:25.682  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:27.215  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:28.948  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:30.550  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:32.182  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:33.782  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:35.450  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:37.151  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:38.785  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:40.585  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:42.119  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:43.752  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:45.451  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:47.019  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:48.596  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:50.204  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:51.847  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:53.589  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:55.203  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:56.876  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:58.455  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:25:59.745  |Hchannel:GUILD|h[Guild]|h Arlièn-ArgentDawn: I will get some food, be back later
+2/14 18:26:00.285  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:26:01.890  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:26:03.491  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:26:03.924  |Hchannel:GUILD|h[Guild]|h Nitzuss-ArgentDawn: bon apetit
+2/14 18:26:05.090  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:26:06.990  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:26:08.623  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:26:10.223  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:26:11.873  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:26:13.740  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:26:15.340  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:26:17.007  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.
+2/14 18:26:18.641  Xutag-ScarshieldLegion creates Enchanted Elethium Bar.

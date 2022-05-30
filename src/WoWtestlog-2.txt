@@ -1,0 +1,5 @@
+12/15 12:00:00.001  test-log yells: extended
+12/15 12:00:00.002  Irrissia-ArgentDawn mutters faintly. "Tired..."
+12/16 12:00:00.001  Irrissia-ArgentDawn mutters faintly. "Tired..."
+1/1 12:00:00.001  test-log yells: next year
+1/1 12:00:00.001  Irrissia-ArgentDawn mutters faintly. "Tired..."
