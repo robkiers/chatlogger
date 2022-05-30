@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useState } from "react";
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 import "the-new-css-reset/css/reset.css";
 import "react-tabs/style/react-tabs.css";
@@ -28,7 +28,7 @@ function App() {
 
         if (text) {
           const sorted = chatSorter(mapped, text);
-          setText(sorted);
+          setText({...sorted});
         } else {
           const sorted = chatSorter(mapped);
           setText(sorted);
@@ -187,7 +187,6 @@ function MonthComponent(month: any) {
   }, []);
 
   const fetchData = () => {
-    console.log("fetchData");
     setScrollMonth(month.month.slice(0, scrollMonth.length + number));
   };
 
@@ -234,6 +233,7 @@ function LineComponent(line: any) {
   function setClassName(type: string): string {
     switch (type) {
       case "emote":
+      case "wowemote":
         return "orange";
       case "yell":
         return "red";

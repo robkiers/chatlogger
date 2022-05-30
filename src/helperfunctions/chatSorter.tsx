@@ -26,7 +26,7 @@ export function chatSorter(lines: lineObject[], previous?: any) {
   lines.forEach((line, idx, array) => {
     const lineTime = line.date.getTime();
 
-    if (lineTime - previousTime <= difference) {
+    if (lineTime - previousTime <= difference && lineTime > previousTime) {
       session.push(line);
     } else if (idx === 0) {
       session.push(line);
@@ -39,20 +39,15 @@ export function chatSorter(lines: lineObject[], previous?: any) {
 
       monthNumber = line.date.getMonth() + 1;
       yearNumber = line.date.getFullYear();
-      console.log(monthNumber);
-
-      if (monthNumber === 1) {
-        // if (previousTime)
-        console.log(line);
-      }
-
       session = [line];
     }
-
     if (idx === array.length - 1) {
-      if (!!year[yearNumber][monthNumber]) {
+      if (!!year[yearNumber] && !!year[yearNumber][monthNumber]) {
         year[yearNumber][monthNumber].push([...session]);
+      } else if (!!year[yearNumber]) {
+        year[yearNumber][monthNumber] = [[...session]];
       } else {
+        year[yearNumber] = {};
         year[yearNumber][monthNumber] = [[...session]];
       }
     }

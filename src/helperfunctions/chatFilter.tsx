@@ -1,3 +1,5 @@
+import { emoteList } from "./emoteList";
+
 export function chatFilter(lines: string[]) {
   return lines
     .filter((line) => notEmpty(line))
@@ -52,17 +54,18 @@ function notPCCraft(string: string): boolean {
     .substring(string.indexOf("  ") + 2)
     .match(/^[\p{L}\p{N}_]*-[\p{L}\p{N}_']* (\bcreates|\bperforms)/u);
 }
+
 // /^[\p{L}\p{N}_]*-[\p{L}\p{N}_]**
 function pcChat(string: string) {
-  return (
-    string
-      .substring(string.indexOf("  ") + 2)
-      // .match(/^[\p{L}\p{N}_']*-[\p{L}\p{N}_]*/u);
-      .match(
-        /(^[\p{L}\p{N}_']*-[\p{L}\p{N}_]*|(^\|Hchannel:(\bRAID|\bPARTY))|^(\bTo (?!\|)))/u
-      )
-  );
+  const pcChatList: RegExp[] = 
+  emoteList.concat([
+    /^[\p{L}']*-[\p{L}]*/u,
+    /^\|Hchannel:(\bRAID|\bPARTY)/u,
+    /^\bTo (?!\|)/u,
+  ])
+  return pcChatList.some(rx => rx.test(string.substring(string.indexOf("  ") + 2)));
 }
+
 // regex Realm (includes ') [\p{L}\p{N}_']
 // regex player [\p{L}\p{N}_]
 function pcYell(string: string) {
@@ -116,18 +119,3 @@ const stringStart = [
 ];
 
 const stringOther = [" receives loot: ", " has earned the achievement "];
-
-// |-
-// | /agree || ||
-// | You agree. || You agree with ''&lt;target&gt;''.
-// |- class="alt"
-// | /amaze || ||  ||
-// You are amazed!
-// |
-// You are amazed by ''&lt;target&gt;''.
-// |-
-// | /angry || x || || You raise your fist in anger.
-// | You raise your fist in anger at ''&lt;target&gt;''.
-// |- class="alt"
-// | /apologize || ||  || You apologize to everyone. Sorry!
-// | You apologize to ''&lt;target&gt;''. Sorry!
