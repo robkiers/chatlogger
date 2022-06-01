@@ -15,6 +15,16 @@ input {
   &[type="number"] {
     padding: 0.5rem;
   }
+  &[type="checkbox"] {
+    border-radius: 1px;
+    border: #ffffff50 solid 1px;
+    width: 0.8rem;
+    height: 0.8rem;
+    &:checked {
+      background-color: #ffffff;
+      border: #ffffff solid 1px;
+    }
+  }
 }
 
 button {
@@ -57,7 +67,7 @@ button {
       border: #ffffff20 solid 1px;
       color: #ffffff20;
       border-radius: 5px;
-      padding: 0 0.2rem 0 0.2rem; 
+      padding: 0 0.2rem 0 0.2rem;
       &:hover {
         border: #ffffff80 solid 1px;
         color: #ffffff80;
@@ -101,4 +111,14 @@ button {
 
 .partyColor {
   color: #66ccff;
+}
+
+.interactionContainer{
+  border: #ffffff solid 1px;
+  border-radius: 5px;
+  background-color: #000000;
+  padding: 0.5rem;
+  position: fixed;
+  left: 5rem;
+  bottom: 5rem;
 }

@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { ChangeEvent, useEffect, useState } from "react";
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 import "the-new-css-reset/css/reset.css";
 import "react-tabs/style/react-tabs.css";
@@ -72,6 +72,18 @@ function App() {
     reader.readAsText(fileimport);
   };
 
+  function removeEntries(year: any, month: any, array: any) {
+    console.log("removeEntries", year, month, array);
+    console.log("text", text[year][month]);
+    const sessionDelete = text[year][month];
+    console.log("sessionDelete pre", sessionDelete);
+    array.forEach((element: any, index: number) => {
+      console.log('a', element);
+      sessionDelete[element.sessionId].filter((value: lineObject) => value.date.getTime() !== element.lineDate.getTime());
+      console.log('b', sessionDelete[element.sessionId].filter((value: lineObject) => value.date.getTime() !== element.lineDate.getTime()));
+    });
+    console.log("sessionDelete aft", sessionDelete);
+  }
 
   return (
     <div className="App">
@@ -88,6 +100,8 @@ function App() {
               <YearComponent
                 key={"yearValueC" + i + keyName}
                 year={text[keyName]}
+                yearName={keyName}
+                removeEntries={removeEntries}
               ></YearComponent>
             </TabPanel>
           ))}
@@ -148,8 +162,14 @@ function App() {
   );
 }
 
-function YearComponent(tabyear: any) {
+function YearComponent(props: any) {
+  const { year, yearName, removeEntries } = props;
   const [subTabIndex, setSubTabIndex] = useState(0);
+
+  function deleteLines(deleteArray: any, monthNr: any) {
+    console.log("year", year);
+    removeEntries(yearName, monthNr, deleteArray);
+  }
 
   return (
     <div>
@@ -158,16 +178,20 @@ function YearComponent(tabyear: any) {
         onSelect={(index) => setSubTabIndex(index)}
       >
         <TabList key="yearHeader">
-          {!!tabyear &&
-            Object.keys(tabyear.year).map((keyName, i, value) => (
+          {!!year &&
+            Object.keys(year).map((keyName, i, value) => (
               <Tab key={i}>{keyName}</Tab>
             ))}
         </TabList>
 
-        {!!tabyear &&
-          Object.keys(tabyear.year).map((keyName, i) => (
+        {!!year &&
+          Object.keys(year).map((keyName, i) => (
             <TabPanel key={"yearValue" + i + keyName}>
-              <MonthComponent month={tabyear.year[keyName]}></MonthComponent>
+              <MonthComponent
+                month={year[keyName]}
+                keyNR={keyName}
+                deleteLines={deleteLines}
+              ></MonthComponent>
             </TabPanel>
           ))}
       </Tabs>
@@ -175,12 +199,15 @@ function YearComponent(tabyear: any) {
   );
 }
 
-function MonthComponent(month: any) {
+function MonthComponent(props: any) {
+  const { month, keyNR, deleteLines } = props;
+
   const number = 1;
   const [scrollMonth, setScrollMonth] = useState<lineObject[][]>(
-    month.month.slice(0, number)
+    month.slice(0, number)
   );
   const [hasMore, setHasMore] = useState<boolean>(true);
+  const [deleteArray, setDeleteArray] = useState<any[]>([]);
 
   useEffect(() => {
     if (scrollMonth[0].length < 50) {
@@ -189,9 +216,17 @@ function MonthComponent(month: any) {
   }, []);
 
   const fetchData = () => {
-    setScrollMonth(month.month.slice(0, scrollMonth.length + number));
-    if (scrollMonth!.length >= month.month!.length) {
+    setScrollMonth(month.slice(0, scrollMonth.length + number));
+    if (scrollMonth!.length >= month!.length) {
       setHasMore(false);
+    }
+  };
+
+  const setArray = (value: any) => {
+    if (!deleteArray.some((entry) => entry === value)) {
+      setDeleteArray([...deleteArray, value]);
+    } else {
+      setDeleteArray(deleteArray.filter((entry) => entry !== value));
     }
   };
 
@@ -209,34 +244,54 @@ function MonthComponent(month: any) {
         }
       >
         {scrollMonth.map((line: lineObject[], i: number) => (
-          <SessionComponent key={i} line={line}></SessionComponent>
+          <SessionComponent
+            key={i}
+            session={line}
+            keyNR={i}
+            setDelete={setArray}
+          ></SessionComponent>
         ))}
       </InfiniteScroll>
+      {deleteArray.length > 0 ? (
+        <div className="interactionContainer">
+          <button onClick={(value) => deleteLines(deleteArray, keyNR)}>
+            delete
+          </button>
+        </div>
+      ) : null}
     </div>
   );
 }
 
-function SessionComponent(session: any) {
-  const sessionDate = session.line[0].date;
+function SessionComponent(props: any) {
+  const { session, keyNR, setDelete } = props;
+  const sessionDate = session[0].date;
+
+  function selectLine(value: ChangeEvent<HTMLInputElement>, id: Date) {
+    setDelete({ sessionId: keyNR, lineDate: id });
+  }
+
   return (
     <div>
       <div>Session {sessionDate.toString().slice(0, 15)}</div>
       <div>
-        {session.line.map((line: lineObject, i: number) => (
-          <LineComponent key={i} line={line}></LineComponent>
+        {session.map((line: lineObject, i: number) => (
+          <LineComponent
+            line={line}
+            keyNR={i}
+            selectLine={selectLine}
+            key={i}
+          ></LineComponent>
         ))}
       </div>
     </div>
   );
 }
 
-function LineComponent(line: any) {
-  const lineObject = line.line;
+function LineComponent(props: any) {
+  const { line, keyNR, selectLine } = props;
 
-  const className = setClassName(lineObject.type);
-  const deleteLine =() =>{
-    console.log(key);
-  }
+  const className = setClassName(line.type);
 
   function setClassName(type: string): string {
     switch (type) {
@@ -259,10 +314,15 @@ function LineComponent(line: any) {
 
   return (
     <div className="grid">
-      <div className="a"><button onClick={() => deleteLine()}>D</button></div>
-      <div className="b">{lineObject.date.toString().slice(16, 24)}</div>
-      <div className="c">{lineObject.character}</div>
-      <div className={className}>{lineObject.text}</div>
+      <div className="a">
+        <input
+          type="checkbox"
+          onClick={(value) => selectLine(value, line.date)}
+        ></input>
+      </div>
+      <div className="b">{line.date.toString().slice(16, 24)}</div>
+      <div className="c">{line.character}</div>
+      <div className={className}>{line.text}</div>
     </div>
   );
 }
