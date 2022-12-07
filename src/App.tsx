@@ -73,16 +73,14 @@ function App() {
   };
 
   function removeEntries(year: any, month: any, array: any) {
-    console.log("removeEntries", year, month, array);
-    console.log("text", text[year][month]);
-    const sessionDelete = text[year][month];
-    console.log("sessionDelete pre", sessionDelete);
-    array.forEach((element: any, index: number) => {
-      console.log('a', element);
-      sessionDelete[element.sessionId].filter((value: lineObject) => value.date.getTime() !== element.lineDate.getTime());
-      console.log('b', sessionDelete[element.sessionId].filter((value: lineObject) => value.date.getTime() !== element.lineDate.getTime()));
+    const temp = { ...text};
+    let yearlist = temp[year][month];
+    yearlist.forEach((elementlist: lineObject[], index: number) => {
+      yearlist[index] = elementlist.filter((element: lineObject) => {
+        return !array.some((del: any) => del.lineDate === element.date);
+      });
     });
-    console.log("sessionDelete aft", sessionDelete);
+    setText(temp);
   }
 
   return (
@@ -167,7 +165,6 @@ function YearComponent(props: any) {
   const [subTabIndex, setSubTabIndex] = useState(0);
 
   function deleteLines(deleteArray: any, monthNr: any) {
-    console.log("year", year);
     removeEntries(yearName, monthNr, deleteArray);
   }
 
